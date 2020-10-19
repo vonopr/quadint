@@ -44,11 +44,11 @@ $$
 $$
 или
 $$ 
-ifootnotex = \small{
-   x_1 \cdot \left(\frac12-a \right)  \left( \frac12right) +
-   _2\cdot \left(\frac12+a \right)   \left(\frac12-\beta \right)  + 
-  x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
-   _4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+b \right) }, .
+x = \scriptsize{
+   x_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
+   x_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  + 
+   x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
+   x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) }, .
 $$
 
 Если применить преобразовани $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
@@ -63,17 +63,11 @@ $$
     3       4
    ```
 
-$$ 
-\hat{\varphi}(phi_1 \cdot \lefta \right]  \ft[ \frac12-\beta \right] +
-   \varphi_2 \cdot \lefta \right]  \ft[\frac12-\beta \right] + \\
-   \varphi_3  \cdot \lefta \right] \left[\frac12+\beta \right] + 
-   \varphi_4 \cdot  \lefta \right]  \left[\f\right,
-$$
 
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk3MzIwMDMsLTE5NzcxMjUzNDksLT
+eyJoaXN0b3J5IjpbLTE0NzY5Mjg0MzYsLTE5NzcxMjUzNDksLT
 E0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAyNzg1MCwtMTU2
 NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OTk4LDEyNjk0NDk0Mz
 ddfQ==
