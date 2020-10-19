@@ -29,7 +29,11 @@ $$
 
 Рассмотрим преобразование $\hat{\varphi} (a, b)$ 
 $$ 
- \varphi_1 \cdot \left(\frac12-a\right)  \left \frac12-b \right) +
+\hat{\varphi} (a, b) =
+  \varphi_1 \cdot \left(\frac12-a \right)  \left( \frac12-b \right) +
+  \varphi _2\cdot \left(\frac12+a \right)  \left(\frac12-b \right)  +\\
+  \varphi_3  \cdot \left(\frac12-a \right)  \left(\frac12+b \right)  + 
+  \varphi_4 \cdot  \left(\frac12+a \right) \left(\frac12+b \right)
 $$
 где $\varphi \equiv$  $x,y$ или $f$.
 
@@ -47,11 +51,10 @@ x =
    x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
    x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
  y = 
-   yifootnotex = \scriptsize{
-   x_1 \cdot \left(\frac12-\alpha a\right)  \left( \frac12-\beta \right) +
+   y_1 \cdot \left(\frac12-\alpha a\right)  \left( \frac12-\beta \right) +
    y_2\cdot \left(\frac12+\alpha a\right)   \left(\frac12-\beta \right)  +\\ 
-   yx_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta b\right)  + 
-   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta b\right) }, .
+   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta b\right)  + 
+   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta b\right), .
 $$
 
 Если применить преобразование $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
@@ -70,7 +73,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODk3Mjg2OCwxOTEwNzEzNTQ3LDI3OD
+eyJoaXN0b3J5IjpbLTcyMDA2MzE4NywxOTEwNzEzNTQ3LDI3OD
 kwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0
 NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NTE0Nj
 EsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
