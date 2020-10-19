@@ -36,7 +36,7 @@ $$
    \varphi_3  \cdot \left[\frac12-a\right] \left[\frac12+b\right] + 
    \varphi_4 \cdot  \left[\frac12+a\right]  \left[\frac12+b\right],
 $$
-где $\varphi =$  $x,y$ или $f$.
+где $\varphi \equiv$  $x,y$ или $f$.
 
 
 
@@ -63,6 +63,6 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODQ1MDk3NiwtMTU2NzU1MTQ2MSwzMT
-c4NjQ0NTUsNDcyNjg1OTk4LDEyNjk0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbMTM3NTIzOTI5LC0xNTY3NTUxNDYxLDMxNz
+g2NDQ1NSw0NzI2ODU5OTgsMTI2OTQ0OTQzN119
 -->
