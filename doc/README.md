@@ -29,6 +29,7 @@ $$
 
 Рассмотрим преобразование $\hat{\varphi} (a, b)$ 
 $$ 
+\small
 \hat{\varphi} (a, b) =
   \varphi_1 \cdot \left(\frac12-a \right)  \left( \frac12-b \right) +
   \varphi _2\cdot \left(\frac12+a \right)  \left(\frac12-b \right)  +\\
@@ -73,7 +74,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDA2MzE4NywxOTEwNzEzNTQ3LDI3OD
+eyJoaXN0b3J5IjpbLTQ1MDQ1MjI3MCwxOTEwNzEzNTQ3LDI3OD
 kwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0
 NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NTE0Nj
 EsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
