@@ -28,7 +28,7 @@ $$
    3
 ```
 
-Рассмотрим преобразование $\varphi (\alpha, \beta)$ , 
+Рассмотрим преобразование $\hat\varphi (\alpha, \beta)$ , 
 $$ 
 \varphi(\alpha, \beta) =
    \varphi_1 \cdot \left[\frac12-\alpha \right]  \left[ \frac12-\beta \right] +
@@ -57,6 +57,6 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODM0NTU0Nyw0NzI2ODU5OTgsMTI2OT
+eyJoaXN0b3J5IjpbMTAwMTE2Mzk4MCw0NzI2ODU5OTgsMTI2OT
 Q0OTQzN119
 -->
