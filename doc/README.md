@@ -19,8 +19,7 @@ $$
 Даны  вершины произвольного четырехугольника $1243$  с координатами (x_n,y_n) и значениями $f_n$. 
 
 ```ascii
-     
-       X                                
+            X                                
     1 
      X              4
                 X
@@ -45,10 +44,10 @@ $$
 $$
 или
 $$ 
-x =   \small{x_1\cdot \left12-a\right)  left \frac1-bright) +
-   x_2 \cdot \left12+a\right)  \left12-b\right)   
-   x_3  \cdot \left12-a\right)  eft(\f12+b\right  + 
-   x_4 \cdot  \left12+a\right) \ft(\frac12+\beta\right)}, .
+x =   \footnotesize{x_1\cdot \left12-a\right)  left \frac1right) +
+   x_2 \cdot \left12+a\right)  \left12-b(\frac12-\beta\right)   
+   x_3  \cdot \left12-(\frac12-\alpha\right)  eft(\f\right  + 
+   x_4 \cdot  \left12+(\frac12+\alpha\right) \left\right)}, .
 $$
 
 Если применить преобразовани $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
@@ -64,16 +63,16 @@ $$
    ```
 
 $$ 
-\hat{\varphi}(phi_1 \cdot \left[\frac12-\alpha \right]  \left[ \frac12-\beta \right] +
+\hat{\varphi}(phi_1 \cdot \lefta \right]  \ft[ \frac12-\beta \right] +
    \varphi_2 \cdot \left[\frac12+\alpha \right]  \left[\frac12-\beta \right] + \\
    \varphi_3  \cdot \left[\frac12-\alpha \right] \left[\frac12+\beta \right] + 
-   \varphi_4 \cdot  \left[\frac12+\alpha \right]  \left[\f12+b\right,
+   \varphi_4 \cdot  \lefta \right]  \left[\f12+b\right,
 $$
 
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ2MDQ2OTAsLTExMzExMTkyNDUsMT
-I1ODgxMTU5NCwtMTI2MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4
-NjQ0NTUsNDcyNjg1OTk4LDEyNjk0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbMTMwMjQ3NDcwNSwtMTQ3NDYwNDY5MCwxMj
+U4ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2
+NDQ1NSw0NzI2ODU5OTgsMTI2OTQ0OTQzN119
 -->
