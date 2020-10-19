@@ -44,11 +44,16 @@ $$
 $$
 или
 $$ 
-x = \scriptsize{
+x = 
    x_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
-   x_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  + 
+   x_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
    x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
-   x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) }, .
+   x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
+ y = 
+   y_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
+   y_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
+   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
+   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) 
 $$
 
 Если применить преобразовани $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
@@ -67,8 +72,8 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY5Mjg0MzYsLTE5NzcxMjUzNDksLT
-E0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAyNzg1MCwtMTU2
-NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OTk4LDEyNjk0NDk0Mz
-ddfQ==
+eyJoaXN0b3J5IjpbMTkzMDcwNTkxMSwtMTk3NzEyNTM0OSwtMT
+Q3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3
+NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OTgsMTI2OTQ0OTQzN1
+19
 -->
