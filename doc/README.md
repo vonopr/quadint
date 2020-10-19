@@ -13,45 +13,45 @@ $$
 где $x_{-}\equiv x_1=x_3$, $x_{+} \equiv x_2=x_4$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
 ### Что делать с НЕ-прямоугольником?
-Что делать, если значения заданы в узлах произвольного четырехугольника? В этом случае можно использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
+Что делать, если значения заданы в узлах произвольного четырехугольника? В этом случае можно использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного плого четырехугольника.
 
-## Билинейное отображение четырехугольника в квадрат
-Даны  вершины произвольного четырехугольника $1243$  с координатами $(x_n,y_n)$ и значениями $f_n$. 
+## Билинейн  а в 
+Даны  вершины произвольного четырехугольника $1243$  с координатами (x_n,y_n) и значениями $f_n$. 
 
 ```ascii
-                2
-              X                                
+     
+       X                                
     1 
      X              4
-                   X
+                X
     X
-   3
+   
 ```
 
-Рассмотрим преобразование $\hat{\varphi} (a, b)$ , 
+Рассм$\hat{\varphi} (a, b)$ , 
 $$ 
 \hat{\varphi}(a,b) =
-   \varphi_1 \cdot \left(\frac12-a\right)  \left( \frac12-b\right) +
-   \varphi_2 \cdot \left(\frac12+a\right)   \left(\frac12-b\right)  + \\
-   \varphi_3  \cdot \left(\frac12-a\right)  \left(\frac12+b\right)  + 
-   \varphi_4 \cdot  \left(\frac12+a\right) \left(\frac12+b\right),
+   \varphi_1 \cdot \left([\frac12-a\right)]  \left([ \frac12-b\right)] +
+   \varphi_2 \cdot \left([\frac12+a\right) ]  \left([\frac12-b\right) ] + \\
+   \varphi_3  \cdot \left([\frac12-a\right) ] \left([\frac12+b\right) ] + 
+   \varphi_4 \cdot  \left([\frac12+a\right)]  \left([\frac12+b\right)],
 $$
 где $\varphi \equiv$  $x,y$ или $f$.
 
 Выберем параметры $a=\alpha(x,y), b=\beta(x,y)$ преобразования $\varphi$ так, что
 $$
-\hat{x}(\alpha, \beta) = x,\\
+\hat{x}(a,b) = x,\\
 \hat{y}(\alpha, \beta) = y; \,
 $$
 или
 $$ 
-x =   \small{x_1\cdot \left(\frac12-\alpha\right)  \left( \frac12-\beta\right) +
-   x_2 \cdot \left(\frac12+\alpha\right)   \left(\frac12-\beta\right)  + 
-   x_3  \cdot \left(\frac12-\alpha\right)  \left(\frac12+\beta\right)  + 
-   x_4 \cdot  \left(\frac12+\alpha\right) \left(\frac12+\beta\right)},
+x =   \small{x_1\cdot \left12-a\right)  left \frac1-bright) +
+   x_2 \cdot \left12+a\right)  \left12-b\right)   
+   x_3  \cdot \left12-a\right)  eft(\f12+b\right  + 
+   x_4 \cdot  \left12+a\right) \ft(\frac12+\beta\right)}, .
 $$
 
-Если применить преобразование $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;\frac12] \times [-\frac12;\frac12]$.
+Если применить преобразовани $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
 
 ```ascii
 
@@ -64,17 +64,16 @@ $$
    ```
 
 $$ 
-\hat{\varphi}(\alpha, \beta) =
-   \varphi_1 \cdot \left[\frac12-\alpha \right]  \left[ \frac12-\beta \right] +
+\hat{\varphi}(phi_1 \cdot \left[\frac12-\alpha \right]  \left[ \frac12-\beta \right] +
    \varphi_2 \cdot \left[\frac12+\alpha \right]  \left[\frac12-\beta \right] + \\
    \varphi_3  \cdot \left[\frac12-\alpha \right] \left[\frac12+\beta \right] + 
-   \varphi_4 \cdot  \left[\frac12+\alpha \right]  \left[\frac12+\beta \right],
+   \varphi_4 \cdot  \left[\frac12+\alpha \right]  \left[\f12+b\right,
 $$
 
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzExMTkyNDUsMTI1ODgxMTU5NCwtMT
-I2MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1
-OTk4LDEyNjk0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbLTE0NzQ2MDQ2OTAsLTExMzExMTkyNDUsMT
+I1ODgxMTU5NCwtMTI2MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4
+NjQ0NTUsNDcyNjg1OTk4LDEyNjk0NDk0MzddfQ==
 -->
