@@ -38,7 +38,7 @@ $$
 $$
 где $\alpha, \beta \in [-\frac12;\frac12]$,  $\varphi_n$ - значение $x,y$ или $f$ в точке  $n=1,2,3$ или $4$.
 
-Преобразование $\varphi$ примененное к координатам $(x,y)$ точек четырехугольника преобразует его в квадрат$[-\frac12;\frac12] \times [-\frac12;\frac12]$.
+Если применить преобразование $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;\frac12] \times [-\frac12;\frac12]$.
 
 ```ascii
 
@@ -57,6 +57,6 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY1OTEyMDAsNDcyNjg1OTk4LDEyNj
-k0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbMTA0ODM0NTU0Nyw0NzI2ODU5OTgsMTI2OT
+Q0OTQzN119
 -->
