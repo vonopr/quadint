@@ -41,9 +41,15 @@ $$
 Выберем параметры $a=\alpha(x,y), b=\beta(x,y)$ преобразования $\varphi$ так, что
 $$
 \hat{x}(\alpha, \beta) = x,\\
-\hat{y}(\alpha, \beta) = y. \,
+\hat{y}(\alpha, \beta) = y; \,
 $$
-
+или
+$$ 
+x =   x_1\cdot \left(\frac12-\alpha\right)  \left( \frac12-\beta\right) +
+   x_2 \cdot \left(\frac12+\alpha\right)   \left(\frac12-\beta\right)  + 
+   x_3  \cdot \left(\frac12-\alpha\right)  \left(\frac12+\beta\right)  + 
+   x_4 \cdot  \left(\frac12+\alpha\right) \left(\frac12+\beta\right),
+$$
 
 Если применить преобразование $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;\frac12] \times [-\frac12;\frac12]$.
 
@@ -68,7 +74,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODgxMTU5NCwtMTI2MTAyNzg1MCwtMT
-U2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OTk4LDEyNjk0NDk0
-MzddfQ==
+eyJoaXN0b3J5IjpbMjEyNDMzMzc1NCwxMjU4ODExNTk0LC0xMj
+YxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5
+OTgsMTI2OTQ0OTQzN119
 -->
