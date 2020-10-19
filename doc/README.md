@@ -29,11 +29,7 @@ $$
 
 Рассмотрим преобразование $\hat{\varphi} (a, b)$ 
 $$ 
-\small
- \varphi_1 \cdot \left(\frac12-a\right)  \left \frac12-b\right) +
-   _2\cdot \left(\frac12+\right)  \left(\frac12-b\right)  +
-  _3  \cdot \left(\frac12-\right)  \left(\frac12+\right)  + 
-   _4 \cdot  \left(\frac12+a\right) \left\right)
+ \varphi_1 \cdot \left(\frac12-a\right)  \left \frac12-b \right) +
 $$
 где $\varphi \equiv$  $x,y$ или $f$.
 
@@ -58,7 +54,7 @@ x =
    y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta b\right) }, .
 $$
 
-Если применить преобразовани $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
+Если применить преобразование $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
 
 ```ascii
 
@@ -74,8 +70,8 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NT
-gzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODEx
-NTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NS
-w0NzI2ODU5OTgsMTI2OTQ0OTQzN119
+eyJoaXN0b3J5IjpbMTA0ODk3Mjg2OCwxOTEwNzEzNTQ3LDI3OD
+kwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0
+NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NTE0Nj
+EsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
 -->
