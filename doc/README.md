@@ -28,7 +28,7 @@ $$
    3
 ```
 
-Рассмотрим преобразование $\varphi (\alpha, \beta)$ при $\alpha, \beta \in [-\frac12;\frac12]$
+Рассмотрим преобразование $\varphi (\alpha, \beta)$ , 
 $$ 
 \varphi(\alpha, \beta) =
    \varphi_1 \left( 1/2-\alpha \right)  \left( 1/2-\beta \right) +
@@ -36,7 +36,7 @@ $$
    \varphi_3 \left( 1/2-\alpha \right)  \left( 1/2+\beta \right) + 
    \varphi_4 \left( 1/2+\alpha \right)  \left( 1/2+\beta \right),
 $$
-где $\varphi_n$ - значение $x,y$ или $f$ в точке  $n=1,2,3$ или $4$.
+где $\alpha, \beta \in [-\frac12;\frac12]$,  $\varphi_n$ - значение $x,y$ или $f$ в точке  $n=1,2,3$ или $4$.
 
 Преобразование $\varphi$ примененное к координатам $(x,y)$ точек четырехугольника преобразует его в квадрат$[-\frac12;\frac12] \times [-\frac12;\frac12]$.
 
@@ -57,5 +57,5 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODc5NjcwMSwxMjY5NDQ5NDM3XX0=
+eyJoaXN0b3J5IjpbNDcyNjg1OTk4LDEyNjk0NDk0MzddfQ==
 -->
