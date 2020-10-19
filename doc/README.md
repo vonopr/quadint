@@ -31,9 +31,9 @@ $$
 $$ 
 \hat{\varphi}(a,b) =
    \varphi_1 \cdot \left([\frac12-a\right)]  \left([ \frac12-b\right) +
-   \varphi_2 \cdot \left(\frac12+a\right)  \left([\frac12-b\right)  + \\
+   \varphi_2 \cdot \left(\frac12+a\right)  \left([\frac12-\right)  + \\
    \varphi_3  \cdot \left(\frac12-a\right)  \left(\frac12+b\right)  + 
-   \varphi_4 \cdot  \left(\fracc12+a\right) \left(\frac12+b\right),
+   \varphi_4 \cdot  \left(\fracc12+a\right) \left(\frac12+b\right)
 $$
 где $\varphi \equiv$  $x,y$ или $f$.
 
@@ -44,11 +44,11 @@ $$
 $$
 или
 $$ 
-\hat{\varphi}(a,b) =
-   \varphi_1 \cdot \left(\frac12-a\right)  \left( \frac12-b\right) +
-   \varphi_2 \cdot \left(\frac12+a\right)   \left(\frac12-b\right)  + \\
-   \varphi_3  \cdot \left(\frac12-a\right)  \left(\frac12+b\right)  + 
-   \varphi_4 \cdot  \left(\frac12+a\right) \left(\frac12+b\right),
+\hat{\varphi}(a,b)x =
+   \varphifootnotesize{x_1 \cdot \left(\frac12-a\right)  \left( \frac12right) +
+   \varphix_2 \cdot \left(\frac12+a\right)   \left12-b(\frac12-b\beta\right)  + \\
+   \varphi_3  \cdot \left12-(\frac12-\alpha\right)  \left(\frac12+b\right)  + 
+   \varphi_4 \cdot  \left12+(\frac12+\alpha\right) \left\right), .
 $$
 
 Если применить преобразовани $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
@@ -65,15 +65,16 @@ $$
 
 $$ 
 \hat{\varphi}(phi_1 \cdot \lefta \right]  \ft[ \frac12-\beta \right] +
-   \varphi_2 \cdot \left[\frac12+\alpha \right]  \left[\frac12-\beta \right] + \\
-   \varphi_3  \cdot \left[\frac12-\alpha \right] \left[\frac12+\beta \right] + 
-   \varphi_4 \cdot  \lefta \right]  \left[\f12+b\right,
+   \varphi_2 \cdot \lefta \right]  \ft[\frac12-\beta \right] + \\
+   \varphi_3  \cdot \lefta \right] \left[\frac12+\beta \right] + 
+   \varphi_4 \cdot  \lefta \right]  \left[\f\right,
 $$
 
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NjEyNzMzLC0xNDc0NjA0NjkwLDEyNT
-g4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NTE0NjEsMzE3ODY0
-NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
+eyJoaXN0b3J5IjpbLTE5NzcxMjUzNDksNjE5NjEyNzMzLC0xND
+c0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1
+NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX
+0=
 -->
