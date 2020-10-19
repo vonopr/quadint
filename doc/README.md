@@ -50,13 +50,17 @@ $$
     3       4
    ```
 
-
-
-Удобно отобразить четырехугольник 1234 в квадрат с помощью некого удобного нам преобразования `f(x,y)`.
+$$ 
+\hat{\varphi}(\alpha, \beta) =
+   \varphi_1 \cdot \left[\frac12-\alpha \right]  \left[ \frac12-\beta \right] +
+   \varphi_2 \cdot \left[\frac12+\alpha \right]  \left[\frac12-\beta \right] + \\
+   \varphi_3  \cdot \left[\frac12-\alpha \right] \left[\frac12+\beta \right] + 
+   \varphi_4 \cdot  \left[\frac12+\alpha \right]  \left[\frac12+\beta \right],
+$$
 
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5ND
-Q5NDM3XX0=
+eyJoaXN0b3J5IjpbNDk5NDg1OTEwLDMxNzg2NDQ1NSw0NzI2OD
+U5OTgsMTI2OTQ0OTQzN119
 -->
