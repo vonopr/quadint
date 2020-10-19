@@ -38,7 +38,11 @@ $$
 $$
 где $\varphi \equiv$  $x,y$ или $f$.
 
-Выберем параметры преобразования $\varphi$ так,
+Выберем параметры $a=\alpha(x,y), b=\beta(x,y)$ преобразования $\varphi$ так, что
+$$
+\hat{x}(\alpha, \beta) = x,\\
+\hat{y}(\alpha, \beta) = y
+$$
 
 Если применить преобразование $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;\frac12] \times [-\frac12;\frac12]$.
 
@@ -63,6 +67,6 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0NDYwOTIsLTE1Njc1NTE0NjEsMz
+eyJoaXN0b3J5IjpbLTEwNzc3ODc3MjYsLTE1Njc1NTE0NjEsMz
 E3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
 -->
