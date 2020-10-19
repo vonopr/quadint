@@ -30,11 +30,10 @@ $$
 Рассмотрим преобразование $\hat{\varphi} (a, b)$ 
 $$ 
 \small
-\hat{\varphi}(a,b) =
-   \varphi_1 \cdot \left(\frac12-a\right)  \left( \frac12-b\right) +
-   \varphi_2 \cdot \left(\frac12+a\right)  \left(\frac12-b\right)  + \\
-   \varphi_3  \cdot \left(\frac12-a\right)  \left(\frac12+b\right)  + 
-   \varphi_4 \cdot  \left(\frac12+a\right) \left(\frac12+b\right) 
+ \varphi_1 \cdot \left(\frac12-a\right)  \left \frac12-b\right) +
+   _2\cdot \left(\frac12+\right)  \left(\frac12-b\right)  +
+  _3  \cdot \left(\frac12-\right)  \left(\frac12+\right)  + 
+   _4 \cdot  \left(\frac12+a\right) \left\right)
 $$
 где $\varphi \equiv$  $x,y$ или $f$.
 
@@ -52,10 +51,11 @@ x =
    x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
    x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
  y = 
-   y_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
-   y_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
-   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
-   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) 
+   yifootnotex = \scriptsize{
+   x_1 \cdot \left(\frac12-\alpha a\right)  \left( \frac12-\beta \right) +
+   y_2\cdot \left(\frac12+\alpha a\right)   \left(\frac12-\beta \right)  +\\ 
+   yx_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta b\right)  + 
+   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta b\right) }, .
 $$
 
 Если применить преобразовани $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
@@ -74,8 +74,8 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4OTAzNzUxLDE3ODU4Mzk3NDksLTE5Nz
-cxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAy
-Nzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OTk4LD
-EyNjk0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NT
+gzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODEx
+NTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NS
+w0NzI2ODU5OTgsMTI2OTQ0OTQzN119
 -->
