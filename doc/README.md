@@ -31,10 +31,10 @@ $$
 Рассмотрим преобразование $\varphi (\alpha, \beta)$ , 
 $$ 
 \varphi(\alpha, \beta) =
-   \varphi_1 \left[\frac12-\alpha \right]  \left[ \frac12-\beta \right) +
-   \varphi_2 \left[\frac12+\alpha \right]  \left[\frac12-\beta \right) + \\
-   \varphi_3 \left[\frac12-\alpha \right] \left[\frac12+\beta \right) + 
-   \varphi_4 \left[\frac12+\alpha \right]  \left[\frac12+\beta \right),
+   \varphi_1 \cdot \left[\frac12-\alpha \right]  \left[ \frac12-\beta \right] +
+   \varphi_2 \cdot \left[\frac12+\alpha \right]  \left[\frac12-\beta \right] + \\
+   \varphi_3  \cdot \left[\frac12-\alpha \right] \left[\frac12+\beta \right] + 
+   \varphi_4 \cdot  \left[\frac12+\alpha \right]  \left[\frac12+\beta \right],
 $$
 где $\alpha, \beta \in [-\frac12;\frac12]$,  $\varphi_n$ - значение $x,y$ или $f$ в точке  $n=1,2,3$ или $4$.
 
@@ -57,6 +57,6 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzMzMjY0NCw0NzI2ODU5OTgsMTI2OT
-Q0OTQzN119
+eyJoaXN0b3J5IjpbLTEzNzY1OTEyMDAsNDcyNjg1OTk4LDEyNj
+k0NDk0MzddfQ==
 -->
