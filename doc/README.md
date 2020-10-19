@@ -13,7 +13,7 @@ $$
 где $x_{-}\equiv x_1=x_3$, $x_{+} \equiv x_2=x_4$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
 ### Что делать с НЕ-прямоугольником?
-Что делать, если значения заданы в узлах произвольного четырехугольника? В этом случае можно использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного плого четырехугольника.
+Что делать, если значения заданы в узлах произвольного четырехугольника? В этом случае можно использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выплого четырехугольника.
 
 ## Билинейн  а в 
 Даны  вершины произвольного четырехугольника $1243$  с координатами (x_n,y_n) и значениями $f_n$. 
@@ -74,8 +74,8 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMT
-Q3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3
-NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OTgsMTI2OTQ0OTQzN1
-19
+eyJoaXN0b3J5IjpbMzQwNjQzNTMyLDE3ODU4Mzk3NDksLTE5Nz
+cxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAy
+Nzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OTk4LD
+EyNjk0NDk0MzddfQ==
 -->
