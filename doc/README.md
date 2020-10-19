@@ -30,10 +30,10 @@ $$
 Рассм$\hat{\varphi} (a, b)$ , 
 $$ 
 \hat{\varphi}(a,b) =
-   \varphi_1 \cdot \left([\frac12-a\right)]  \left([ \frac12-b\right) +
-   \varphi_2 \cdot \left(\frac12+a\right)  \left([\frac12-\right)  + \\
+   \varphi_1 \cdot \left(\frac12-a\right)  \left( \frac12-b\right) +
+   \varphi_2 \cdot \left(\frac12+a\right)  \left(\frac12-\right)  + \\
    \varphi_3  \cdot \left(\frac12-a\right)  \left(\frac12+b\right)  + 
-   \varphi_4 \cdot  \left(\fracc12+a\right) \left(\frac12+b\right)
+   \varphi_4 \cdot  \left(\frac12+a\right) \left\right)
 $$
 где $\varphi \equiv$  $x,y$ или $f$.
 
@@ -44,11 +44,11 @@ $$
 $$
 или
 $$ 
-\hat{\varphi}(a,b)x =
-   \varphifootnotesize{x_1 \cdot \left(\frac12-a\right)  \left( \frac12right) +
-   \varphix_2 \cdot \left(\frac12+a\right)   \left12-b(\frac12-b\beta\right)  + \\
-   \varphi_3  \cdot \left12-(\frac12-\alpha\right)  \left(\frac12+b\right)  + 
-   \varphi_4 \cdot  \left12+(\frac12+\alpha\right) \left\right), .
+ifootnotex = \scriptsize{
+   x_1 \cdot \left(\frac12-a\right)  \left( \frac12right) +
+   _2\cdot \left(\frac12+a\right)   \left12-b(\frac12-b\beta\right)  + 
+  x_3  \cdot \left12-(\frac12-\alpha\right)  \left(\frac12+b\right)  + 
+   _4 \cdot  \left12+(\frac12+\alpha\right) \left(\frac12+b\right)}, .
 $$
 
 Если применить преобразовани $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
@@ -73,7 +73,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzcxMjUzNDksNjE5NjEyNzMzLC0xND
+eyJoaXN0b3J5IjpbMzc3MzAwNzEyLC0xOTc3MTI1MzQ5LC0xND
 c0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1
 NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX
 0=
