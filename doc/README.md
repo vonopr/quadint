@@ -31,7 +31,7 @@ $$
 Рассмотрим преобразование $\hat{\varphi} (a, b)$ , 
 $$ 
 \hat{\varphi}(a,b) =
-   \varphi_1 \cdot \left[\frac12-a\right]  \left[ \frac12-b\right] +
+   \varphi_1 \cdot \left\frac12-a\right]  \left[ \frac12-b\right] +
    \varphi_2 \cdot \left[\frac12+a\right]  \left[\frac12-b\right] + \\
    \varphi_3  \cdot \left[\frac12-a\right] \left[\frac12+b\right] + 
    \varphi_4 \cdot  \left[\frac12+a\right]  \left[\frac12+b\right],
@@ -68,6 +68,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjEwMjc4NTAsLTE1Njc1NTE0NjEsMz
-E3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
+eyJoaXN0b3J5IjpbLTE5MTk5OTQzMzEsLTEyNjEwMjc4NTAsLT
+E1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5
+NDM3XX0=
 -->
