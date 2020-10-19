@@ -28,9 +28,9 @@ $$
    3
 ```
 
-Рассмотрим преобразование $\hat\varphi (\alpha, \beta)$ , 
+Рассмотрим преобразование $\hat{\varphi} (\alpha, \beta)$ , 
 $$ 
-\varphi(\alpha, \beta) =
+\hat{\varphi}(\alpha, \beta) =
    \varphi_1 \cdot \left[\frac12-\alpha \right]  \left[ \frac12-\beta \right] +
    \varphi_2 \cdot \left[\frac12+\alpha \right]  \left[\frac12-\beta \right] + \\
    \varphi_3  \cdot \left[\frac12-\alpha \right] \left[\frac12+\beta \right] + 
@@ -57,6 +57,6 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTE2Mzk4MCw0NzI2ODU5OTgsMTI2OT
-Q0OTQzN119
+eyJoaXN0b3J5IjpbMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5ND
+Q5NDM3XX0=
 -->
