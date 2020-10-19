@@ -13,10 +13,10 @@ $$
 где $x_{-}\equiv x_1=x_3$, $x_{+} \equiv x_2=x_4$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
 ### Что делать с НЕ-прямоугольником?
-Что делать, если значения заданы в узлах произвольного четырехугольника? В этом случае можно использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выплого четырехугольника.
+Что делать, если значения заданы в узлах произвольного четырехугольника? В этом случае можно использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
 
 ## Билинейн  а в 
-Даны  вершины произвольного четырехугольника $1243$  с координатами (x_n,y_n) и значениями $f_n$. 
+Даны  вершины выпуклого четырехугольника $1243$  с координатами $(x_n,y_n)$ и значениями $f_n$. 
 
 ```ascii
             X                                
@@ -27,7 +27,7 @@ $$
    
 ```
 
-Рассмотрим $\hat{\varphi} (a, b)$ , 
+Рассмотрим преобразование $\hat{\varphi} (a, b)$ 
 $$ 
 \small
 \hat{\varphi}(a,b) =
@@ -74,7 +74,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwNjQzNTMyLDE3ODU4Mzk3NDksLTE5Nz
+eyJoaXN0b3J5IjpbMjc4OTAzNzUxLDE3ODU4Mzk3NDksLTE5Nz
 cxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAy
 Nzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OTk4LD
 EyNjk0NDk0MzddfQ==
