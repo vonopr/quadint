@@ -44,10 +44,10 @@ $$
 $$
 или
 $$ 
-x =   \footnotesize{x_1\cdot \left12-a\right)  left \frac1right) +
-   x_2 \cdot \left12+a\right)  \left12-b(\frac12-\beta\right)   
-   x_3  \cdot \left12-(\frac12-\alpha\right)  eft(\f\right  + 
-   x_4 \cdot  \left12+(\frac12+\alpha\right) \left\right)}, .
+x =   \varphi_1 \cdot \left(\frac12-a\right)  left \frac12 \beta \right) +
+   \varphi_2 \cdot  \left(\frac1212+a\right)  \left12-b(\frac12-\beta\right)   
+   \varphi_3  \cdot  \left(\frac1212-(\frac12-\alpha\right)  eft(\f\right  + \\
+   \varphi_4 \cdot   \left(\frac12+(\frac12+\alpha\right) \left\eta\right), .
 $$
 
 Если применить преобразовани $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
@@ -72,7 +72,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjQ3NDcwNSwtMTQ3NDYwNDY5MCwxMj
+eyJoaXN0b3J5IjpbMTQwMTc0NDU3OCwtMTQ3NDYwNDY5MCwxMj
 U4ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2
 NDQ1NSw0NzI2ODU5OTgsMTI2OTQ0OTQzN119
 -->
