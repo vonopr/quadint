@@ -52,10 +52,10 @@ x =
    x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
    x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
  y = 
-   y_1 \cdot \left(\frac12-\alpha a\right)  \left( \frac12-\beta \right) +
-   y_2\cdot \left(\frac12+\alpha a\right)   \left(\frac12-\beta \right)  +\\ 
-   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta b\right)  + 
-   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta b\right), .
+   y_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
+   y_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\ 
+   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
+   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
 $$
 
 Если применить преобразование $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;;\frac12]$.
@@ -74,7 +74,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDQ1MjI3MCwxOTEwNzEzNTQ3LDI3OD
+eyJoaXN0b3J5IjpbMTQ1OTAxNjIyMCwxOTEwNzEzNTQ3LDI3OD
 kwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0
 NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NTE0Nj
 EsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
