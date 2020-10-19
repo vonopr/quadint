@@ -27,11 +27,12 @@ $$
    
 ```
 
-Рассм$\hat{\varphi} (a, b)$ , 
+Рассмотрим $\hat{\varphi} (a, b)$ , 
 $$ 
+\small
 \hat{\varphi}(a,b) =
    \varphi_1 \cdot \left(\frac12-a\right)  \left( \frac12-b\right) +
-   \varphi_2 \cdot \left(\frac12+a\right)  \left(\frac12-\right)  + \\
+   \varphi_2 \cdot \left(\frac12+a\right)  \left(\frac12-b\right)  + \\
    \varphi_3  \cdot \left(\frac12-a\right)  \left(\frac12+b\right)  + 
    \varphi_4 \cdot  \left(\frac12+a\right) \left(\frac12+b\right) 
 $$
@@ -44,6 +45,7 @@ $$
 $$
 или
 $$ 
+\small
 x = 
    x_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
    x_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
@@ -72,7 +74,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDcwNTkxMSwtMTk3NzEyNTM0OSwtMT
+eyJoaXN0b3J5IjpbMTc4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMT
 Q3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3
 NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OTgsMTI2OTQ0OTQzN1
 19
