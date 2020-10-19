@@ -36,7 +36,8 @@ $$
    \varphi_3  \cdot \left[\frac12-a\right] \left[\frac12+b\right] + 
    \varphi_4 \cdot  \left[\frac12+a\right]  \left[\frac12+b\right],
 $$
-где $\varphi_n$ - значения $x,y$ или $f$ в точках  $1,2,3,4$.
+где $\varphi =$  $x,y$ или $f$.
+
 
 
 Если применить преобразование $\varphi$ к координатам $(x,y)$ точек четырехугольника, то преобразует его в квадрат$[-\frac12;\frac12] \times [-\frac12;\frac12]$.
@@ -62,6 +63,6 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjU1OTA3NSwtMTU2NzU1MTQ2MSwzMT
+eyJoaXN0b3J5IjpbLTYwODQ1MDk3NiwtMTU2NzU1MTQ2MSwzMT
 c4NjQ0NTUsNDcyNjg1OTk4LDEyNjk0NDk0MzddfQ==
 -->
