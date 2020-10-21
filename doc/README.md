@@ -28,7 +28,7 @@ $$
    
 ```
 
-С помощью билинейного  $\hat{\varphi} (a, b)$ 
+С помощью билинейного преобразования $\hat{\varphi} (a, b)$ отобразим четырехугольник в прямоугольник $[-\frac12;\frac12]^2$.
 $$ 
 \small
 \hat{\varphi} (a, b) =
@@ -75,9 +75,9 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzA0MTgyOSwxNDU5MDE2MjIwLDE5MT
-A3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLTE5NzcxMjUz
-NDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAyNzg1MC
-wtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OTk4LDEyNjk0
-NDk0MzddfQ==
+eyJoaXN0b3J5IjpbNTk5NjEwNDUwLDE0NTkwMTYyMjAsMTkxMD
+cxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0
+OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC
+0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OTgsMTI2OTQ0
+OTQzN119
 -->
