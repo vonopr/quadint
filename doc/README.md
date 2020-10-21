@@ -28,7 +28,7 @@ $$
    
 ```
 
-С помощью билинейного преобразования $\hat{\varphi}_ (a, b)$ отобразим четырехугольник в квадрат $[-\frac12;\frac12]^2$:
+С помощью билинейного преобразования $\hat{\varphi}_{xy}$ отобразим четырехугольник 1243 в квадрат $[-\frac12;\frac12]^2$:
 
 $$
 \hat{x}(\alpha, \beta) = x,\\
@@ -79,7 +79,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDIwNzAyOTcsLTE5Mjg3ODIwMjgsNz
+eyJoaXN0b3J5IjpbLTE3NzAxNzM1MTAsLTE5Mjg3ODIwMjgsNz
 A5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2MjIwLDE5MTA3MTM1
 NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLTE5NzcxMjUzNDksLT
 E0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAyNzg1MCwtMTU2
