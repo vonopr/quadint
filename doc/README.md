@@ -39,9 +39,9 @@ $$
 $$
 где $\varphi \equiv$  $x,y$ или $f$.
 
-Выберем параметры $a=\alpha(x,y), b=\beta(x,y)$ преобразования $\varphi$ так, что
+Для этого выберем параметры $a=\alpha(x,y), b=\beta(x,y)$ преобразования $\hat{\varphi}$ так, что
 $$
-\hat{x}(a,b) = x,\\
+\hat{x}(\alpha, \beta) = x,\\
 \hat{y}(\alpha, \beta) = y; \,
 $$
 или
@@ -75,9 +75,9 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NjEwNDUwLDE0NTkwMTYyMjAsMTkxMD
-cxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0
-OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC
-0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OTgsMTI2OTQ0
-OTQzN119
+eyJoaXN0b3J5IjpbLTEzNDc1NTc0MTIsMTQ1OTAxNjIyMCwxOT
+EwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1
+MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NT
+AsLTE1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5
+NDQ5NDM3XX0=
 -->
