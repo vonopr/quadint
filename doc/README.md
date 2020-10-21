@@ -30,7 +30,12 @@ $$
 
 С помощью билинейного преобразования $\hat{\eta}_{xy}$ отобразим четырехугольник $1243$ в квадрат $[-\frac12;\frac12]^2$. Пусть
 $$
-\hat{\eta}_{xy}(x,y)\equiv(\hat{\eta}_x(x),\hat{\eta}_y(y))
+\hat{\eta}_{xy}(x,y)\equiv(\hat{\eta}_x(x),\hat{\eta}_y(y)),\\
+\hat{\varphi} (a, b) =
+  \varphi_1 \cdot (\frac12-a )  \left( \frac12-b \right) +
+  \varphi _2\cdot \left(\frac12+a \right)  \left(\frac12-b \right)  +\\
+  \varphi_3  \cdot \left(\frac12-a \right)  \left(\frac12+b \right)  + 
+  \varphi_4 \cdot  \left(\frac12+a \right) \left(\frac12+b \right)
 $$
 
 $$
@@ -39,14 +44,6 @@ y = \hat{\eta}_y(\alpha, \beta) ; \,
 $$
 
 
-$$ 
-\small
-\hat{\varphi} (a, b) =
-  \varphi_1 \cdot \left(\frac12-a \right)  \left( \frac12-b \right) +
-  \varphi _2\cdot \left(\frac12+a \right)  \left(\frac12-b \right)  +\\
-  \varphi_3  \cdot \left(\frac12-a \right)  \left(\frac12+b \right)  + 
-  \varphi_4 \cdot  \left(\frac12+a \right) \left(\frac12+b \right)
-$$
 где $\varphi \equiv$  $x,y$ или $f$.
 
 Для этого выберем параметры $a=\alpha(x,y), b=\beta(x,y)$ преобразования $\hat{\varphi}$ так, что
@@ -82,10 +79,10 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NDk1ODI3LC0xMDU1NTQ5NDIzLC0xOT
-I4NzgyMDI4LDcwOTQzNTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIy
-MCwxOTEwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOT
-c3MTI1MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEw
-Mjc4NTAsLTE1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OC
-wxMjY5NDQ5NDM3XX0=
+eyJoaXN0b3J5IjpbLTE5NzgwNDU1MDUsLTEwNTU1NDk0MjMsLT
+E5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2
+MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLT
+E5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2
+MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OT
+k4LDEyNjk0NDk0MzddfQ==
 -->
