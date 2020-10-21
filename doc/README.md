@@ -28,7 +28,7 @@ $$
    
 ```
 
-Рассмотрим преобразование $\hat{\varphi} (a, b)$ 
+С помощью билинейного  $\hat{\varphi} (a, b)$ 
 $$ 
 \small
 \hat{\varphi} (a, b) =
@@ -75,9 +75,9 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIwOTc1OTMsMTQ1OTAxNjIyMCwxOT
-EwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1
-MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NT
-AsLTE1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5
-NDQ5NDM3XX0=
+eyJoaXN0b3J5IjpbLTk3NzA0MTgyOSwxNDU5MDE2MjIwLDE5MT
+A3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLTE5NzcxMjUz
+NDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAyNzg1MC
+wtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OTk4LDEyNjk0
+NDk0MzddfQ==
 -->
