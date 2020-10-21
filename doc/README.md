@@ -15,10 +15,11 @@ $$
 ### Что делать с НЕ-прямоугольником?
 Что делать, если значения заданы в узлах произвольного четырехугольника? В этом случае можно использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
 
-## Билинейн  а в 
+## Отображение четырехугольника в прямоугольник
 Даны  вершины выпуклого четырехугольника $1243$  с координатами $(x_n,y_n)$ и значениями $f_n$. 
 
 ```ascii
+           2
             X                                
     1 
      X              4
@@ -74,8 +75,9 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTAxNjIyMCwxOTEwNzEzNTQ3LDI3OD
-kwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0
-NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NTE0Nj
-EsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
+eyJoaXN0b3J5IjpbLTExNTIwOTc1OTMsMTQ1OTAxNjIyMCwxOT
+EwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1
+MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NT
+AsLTE1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5
+NDQ5NDM3XX0=
 -->
