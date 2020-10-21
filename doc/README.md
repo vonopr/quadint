@@ -55,7 +55,7 @@ x =
    y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
 $$
 
-Можно показать, что преобразование $(\hat{\eta}_{xy})^{-1}$ задает взаимно-однозначное соответствие между точками четырехугольника $1243$ и квадратом $[-\frac12;\frac12]^2$ 
+Можно показать, что преобразование $(\hat{\eta}_{xy})^{-1}$ задает взаимно-однозначное соответствие между точками выпуклого четырехугольника $1243$ и квадратом $[-\frac12;\frac12]^2$, а так же между сторонами четырехугольника и сторонами 
 
 
 Границы
@@ -75,10 +75,10 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDIyMzc3NDQsLTEwNTU1NDk0MjMsLT
-E5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2
-MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLT
-E5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2
-MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OT
-k4LDEyNjk0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbLTkxMTcxOTMxLC0xMDU1NTQ5NDIzLC0xOT
+I4NzgyMDI4LDcwOTQzNTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIy
+MCwxOTEwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOT
+c3MTI1MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEw
+Mjc4NTAsLTE1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OC
+wxMjY5NDQ5NDM3XX0=
 -->
