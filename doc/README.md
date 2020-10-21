@@ -55,7 +55,7 @@ x =
    y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
 $$
 
-Можно показать, что якобиан преобразования $(\hat{\eta}_{xy})$ $(\hat{\eta}_{xy})^{-1}$ задает взаимно-однозначное соответствие между точками выпуклого четырехугольника $1243$ и квадратом $[-\frac12;\frac12]^2$, при этом стороны четырехугольника переходят в стороны квадрата.
+Можно показать, что якобиан преобразования $(\hat{\eta}_{xy})^{-1}$ отличен от нуля в любой точке выпуклого четырехугольника,   $(\hat{\eta}_{xy})^{-1}$ задает взаимно-однозначное соответствие между точками  $1243$ и квадратом $[-\frac12;\frac12]^2$, при этом стороны четырехугольника переходят в стороны квадрата.
 
 
 Границы
@@ -75,10 +75,10 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkyMDQ1MjQsLTEwNTU1NDk0MjMsLT
-E5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2
-MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLT
-E5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2
-MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OT
-k4LDEyNjk0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbMTQzNDU1MDAyMywtMTQxOTIwNDUyNCwtMT
+A1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1
+NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMT
+c4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4
+ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2ND
+Q1NSw0NzI2ODU5OTgsMTI2OTQ0OTQzN119
 -->
