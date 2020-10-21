@@ -28,7 +28,7 @@ $$
    
 ```
 
-С помощью билинейного преобразования $\hat{\varphi} (a, b)$ отобразим четырехугольник в прямоугольник $[-\frac12;\frac12]^2$.
+С помощью билинейного преобразования $\hat{\varphi} (a, b)$ отобразим четырехугольник в квадрат $[-\frac12;\frac12]^2$.
 $$ 
 \small
 \hat{\varphi} (a, b) =
@@ -59,6 +59,8 @@ x =
    y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
 $$
 
+Границы
+
 
 ```ascii
 
@@ -74,9 +76,9 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMD
-cxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0
-OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC
-0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OTgsMTI2OTQ0
-OTQzN119
+eyJoaXN0b3J5IjpbNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MD
+E2MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDks
+LTE5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMT
+I2MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1
+OTk4LDEyNjk0NDk0MzddfQ==
 -->
