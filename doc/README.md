@@ -55,7 +55,7 @@ x =
    y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
 $$
 
-Можно показать, что якобиан преобразования $(\hat{\eta}_{xy})^{-1}$ отличен от нуля в любой точке выпуклого четырехугольника,   $(\hat{\eta}_{xy})^{-1}$ задает взаимно-однозначное соответствие между точками  $1243$ и квадратом $[-\frac12;\frac12]^2$, при этом стороны четырехугольника переходят в стороны квадрата.
+Можно показать, что якобиан преобразования $\eta_{xy}$ отличен от нуля в любой точке выпуклого четырехугольника,   $(\hat{\eta}_{xy})^{-1}$ задает взаимно-однозначное соответствие между точками  $1243$ и квадратом $[-\frac12;\frac12]^2$, при этом стороны четырехугольника переходят в стороны квадрата.
 
 
 Границы
@@ -75,7 +75,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDU1MDAyMywtMTQxOTIwNDUyNCwtMT
+eyJoaXN0b3J5IjpbMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMT
 A1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1
 NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMT
 c4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4
