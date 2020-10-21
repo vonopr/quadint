@@ -28,7 +28,14 @@ $$
    
 ```
 
-С помощью билинейного преобразования $\hat{\varphi} (a, b)$ отобразим четырехугольник в квадрат $[-\frac12;\frac12]^2$.
+С помощью билинейного преобразования $\hat{\varphi} (a, b)$ отобразим четырехугольник в квадрат $[-\frac12;\frac12]^2$:
+
+$$
+\hat{x}(\alpha, \beta) = x,\\
+\hat{y}(\alpha, \beta) = y; \,
+$$
+
+
 $$ 
 \small
 \hat{\varphi} (a, b) =
@@ -40,10 +47,6 @@ $$
 где $\varphi \equiv$  $x,y$ или $f$.
 
 Для этого выберем параметры $a=\alpha(x,y), b=\beta(x,y)$ преобразования $\hat{\varphi}$ так, что
-$$
-\hat{x}(\alpha, \beta) = x,\\
-\hat{y}(\alpha, \beta) = y; \,
-$$
 или
 $$ 
 \small
@@ -76,9 +79,9 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MD
-E2MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDks
-LTE5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMT
-I2MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1
-OTk4LDEyNjk0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbLTE5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwND
+Q4NTQ5NSwxNDU5MDE2MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUx
+LDE3ODU4Mzk3NDksLTE5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMT
+I1ODgxMTU5NCwtMTI2MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4
+NjQ0NTUsNDcyNjg1OTk4LDEyNjk0NDk0MzddfQ==
 -->
