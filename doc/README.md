@@ -28,14 +28,14 @@ $$
    
 ```
 
-С помощью билинейного преобразования $\hat{\eta}_{xy}$ отобразим четырехугольник 1243 в квадрат $[-\frac12;\frac12]^2$:
+С помощью билинейного преобразования $\hat{\eta}_{xy}$ отобразим четырехугольник $1243$ в квадрат $[-\frac12;\frac12]^2$. Пусть
 $$
 \hat{\eta}_{xy}(x,y)\equiv(\hat{\eta}_x(x),\hat{\eta}_y(y))
 $$
 
 $$
-x = \hat{x}(\alpha, \beta) ,\\
-y = \hat{y}(\alpha, \beta) ; \,
+x = \hat{\eta}_x(\alpha, \beta) ,\\
+y = \hat{\eta}_y(\alpha, \beta) ; \,
 $$
 
 
@@ -82,10 +82,10 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mjk5OTM1NCwtMTA1NTU0OTQyMywtMT
-kyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYy
-MjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMT
-k3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYx
-MDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OT
-gsMTI2OTQ0OTQzN119
+eyJoaXN0b3J5IjpbODU1NDk1ODI3LC0xMDU1NTQ5NDIzLC0xOT
+I4NzgyMDI4LDcwOTQzNTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIy
+MCwxOTEwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOT
+c3MTI1MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEw
+Mjc4NTAsLTE1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OC
+wxMjY5NDQ5NDM3XX0=
 -->
