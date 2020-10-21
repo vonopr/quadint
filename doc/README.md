@@ -55,7 +55,7 @@ x =
    y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
 $$
 
-
+Можно показать, что преобразование $(\hat{\eta}_{xy})^{-1}$
 
 
 Границы
@@ -75,10 +75,10 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY0NTgxOTMsLTEwNTU1NDk0MjMsLT
-E5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2
-MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLT
-E5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2
-MTAyNzg1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OT
-k4LDEyNjk0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbMTcxMjc5MjM4NSwtMTA1NTU0OTQyMywtMT
+kyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYy
+MjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMT
+k3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYx
+MDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OT
+gsMTI2OTQ0OTQzN119
 -->
