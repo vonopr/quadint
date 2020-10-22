@@ -30,7 +30,7 @@ $$
 $$\left[-\frac12;\frac12 \right]\times\left\{-\frac12\right\},\\
  \left\{\frac12\right\}\times\left[-\frac12;\frac12 \right],\\
  \left[-\frac12;\frac12 \right]\times\left\{\frac12\right\},\\
- \left[-\frac12;\frac12 \right]\times\left\{\frac12\right\}$$
+ \left\{-\frac12\right\}\times\left[-\frac12;\frac12 \right]$$
 
 
 ### Взаимная однозначность отображения выпуклого четырехугольника в квадрат
@@ -94,11 +94,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2NjUwOTgyLDExNTQ3NTkwNDIsLTE4MT
-QwNDI2MjQsMjIxNDY3NjA0LDEzOTMyODM0NSwxMzcwMzM4OTc0
-LDEyNTM5MjcxMTksMjEwNjgyODU4NSwxMjI3OTk3NDk3LC0xND
-E5MjA0NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LDcwOTQz
-NTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEzNTQ3LD
-I3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0
-NjA0NjkwXX0=
+eyJoaXN0b3J5IjpbMTg3Njg3ODQ1NywxMTU0NzU5MDQyLC0xOD
+E0MDQyNjI0LDIyMTQ2NzYwNCwxMzkzMjgzNDUsMTM3MDMzODk3
+NCwxMjUzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMT
+QxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0
+MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0Ny
+wyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3
+NDYwNDY5MF19
 -->
