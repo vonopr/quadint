@@ -3,7 +3,37 @@
 ## Введение
 
 ### Билинейная интерполяция в прямоугольнике
-Отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1234$ можно с помощью преобразования билинейного преобразования
+Отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1234$ можно с помощью преобразования билинейного преобразования 
+
+Билинейное преобразование $(\hat{\eta}_{xy})^{-1}$ отображает четырехугольник $1234$ в квадрат $[-\frac12;\frac12]^2$. Пусть
+$$
+\hat{\eta}_{xy}(\alpha, \beta)\equiv(\hat{\eta}_x(\alpha, \beta),\hat{\eta}_y(\alpha, \beta)),\\
+\hat{\eta}_{\varphi} (\alpha, \beta) \equiv
+  \varphi_1 \cdot (1/2-\alpha )  (1/2-\beta) +  \varphi _2\cdot (1/2+\alpha) (1/2-\beta)  +\\
+  \varphi_3  \cdot (1/2-\alpha) (1/2+\beta)  + \varphi_4 \cdot  (1/2+\alpha)(1/2+\beta),
+$$
+где $\varphi \equiv$  $x,y$ или $f$. Тогда
+$$
+x = \hat{\eta}_x(\alpha, \beta) ,\\
+y = \hat{\eta}_y(\alpha, \beta) ; \,
+$$
+или
+$$ 
+\small
+x = 
+   x_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
+   x_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
+   x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
+   x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
+ y = 
+   y_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
+   y_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\ 
+   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
+   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
+$$
+
+
+
 $$
 \alpha = \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
 \beta= \frac{y-\frac{y_{+}+y_{-}}{2}}{y_{+}-y_{-}},\\
@@ -33,32 +63,7 @@ $$
    
 ```
 
-Билинейное преобразование $(\hat{\eta}_{xy})^{-1}$ отображает четырехугольник $1234$ в квадрат $[-\frac12;\frac12]^2$. Пусть
-$$
-\hat{\eta}_{xy}(\alpha, \beta)\equiv(\hat{\eta}_x(\alpha, \beta),\hat{\eta}_y(\alpha, \beta)),\\
-\hat{\eta}_{\varphi} (\alpha, \beta) \equiv
-  \varphi_1 \cdot (1/2-\alpha )  (1/2-\beta) +  \varphi _2\cdot (1/2+\alpha) (1/2-\beta)  +\\
-  \varphi_3  \cdot (1/2-\alpha) (1/2+\beta)  + \varphi_4 \cdot  (1/2+\alpha)(1/2+\beta),
-$$
-где $\varphi \equiv$  $x,y$ или $f$. Тогда
-$$
-x = \hat{\eta}_x(\alpha, \beta) ,\\
-y = \hat{\eta}_y(\alpha, \beta) ; \,
-$$
-или
-$$ 
-\small
-x = 
-   x_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
-   x_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
-   x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
-   x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
- y = 
-   y_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
-   y_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\ 
-   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
-   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
-$$
+
 
 Можно показать, что якобиан преобразования $\eta_{xy}$ отличен от нуля в любой точке выпуклого четырехугольника,   $(\hat{\eta}_{xy})^{-1}$ задает взаимно-однозначное соответствие между точками  $1243$ и квадратом $[-\frac12;\frac12]^2$, при этом стороны четырехугольника переходят в стороны квадрата.
 
@@ -80,11 +85,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NjYwNTg0LDEyNTM5MjcxMTksMjEwNj
-gyODU4NSwxMjI3OTk3NDk3LC0xNDE5MjA0NTI0LC0xMDU1NTQ5
-NDIzLC0xOTI4NzgyMDI4LDcwOTQzNTE4Niw2MDQ0ODU0OTUsMT
-Q1OTAxNjIyMCwxOTEwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5
-NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OT
-QsLTEyNjEwMjc4NTAsLTE1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3
-MjY4NTk5OF19
+eyJoaXN0b3J5IjpbMTgwMTEzNTUzNiwxMjUzOTI3MTE5LDIxMD
+Y4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0
+OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LD
+E0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgz
+OTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNT
+k0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0
+NzI2ODU5OThdfQ==
 -->
