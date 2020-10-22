@@ -23,12 +23,12 @@ $$
    f_3  \cdot \left(\frac12+\alpha \right)  \left(\frac12+\beta \right)  + 
    f_4 \cdot  \left(\frac12-\alpha \right) \left(\frac12+\beta \right) , \\
 $$
-где $x_{-}\equiv x_1\overset{=}{=} x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
+где $x_{-}\equiv x_1= x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
-Отображение $(x,y)=(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки $P\{1234\}$ прямоугольника на единичный квадрат $\left[-\frac12, \frac12 \right].$
+Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки $P\{1234\}$ прямоугольника на единичный квадрат $\left[-\frac12, \frac12 \right].$
 
 ### Билинейная интерполяция в НЕ-прямоугольнике
-Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника? В этом случае можно построить взаимно-однозначное отображение
+Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае можно преобразовние $\hat{\eta}_{xy}$ координат вершин взаимно-однозначное отображение
 
  использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
 
@@ -82,11 +82,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzAyMDUwMCwxMzkzMjgzNDUsMTM3MD
-MzODk3NCwxMjUzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5
-NywtMTQxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOC
-w3MDk0MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcx
-MzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0OS
-wtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC0x
-NTY3NTUxNDYxXX0=
+eyJoaXN0b3J5IjpbLTk3Njg0NDg2LDEzOTMyODM0NSwxMzcwMz
+M4OTc0LDEyNTM5MjcxMTksMjEwNjgyODU4NSwxMjI3OTk3NDk3
+LC0xNDE5MjA0NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LD
+cwOTQzNTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEz
+NTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC
+0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1
+Njc1NTE0NjFdfQ==
 -->
