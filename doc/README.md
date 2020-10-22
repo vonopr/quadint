@@ -1,8 +1,6 @@
 # Четырехугольная интерполяция
 
-## Введение
-
-### Билинейная интерполяция в прямоугольнике
+## Билинейная интерполяция в прямоугольнике
 Отобразим значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1234$ с помощью преобразования билинейного преобразования $\hat{\eta}_{\varphi}$, примененного к координатам вершин $(x_n,y_n)$ и значениям $f_n$  в вершинах:
 $$
 \hat{\eta}_{\varphi} (\alpha, \beta) \equiv
@@ -27,10 +25,10 @@ $$
 
 Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки прямоугольника 1234 на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
-### Билинейная интерполяция в НЕ-прямоугольнике
+## Билинейная интерполяция в выпуклом четыр
 Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника так же взаимно-однозначно отображает его на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
-Оказалось [[2]](#2) , что для обратного преобразования $(\alpha,\beta)\overset{\hat{\eta}^{-1}_{xy}}{= }(\alpha(x,y), \beta(x,y))$ существует явное выражение. Оно было опубликовано в 2015 году, автор исп
+Оказалось [[2]](#2) , что для обратного преобразования $(\alpha,\beta)\overset{\hat{\eta}^{-1}_{xy}}{= }(\alpha(x,y), \beta(x,y))$ существует явное выражение. Оно было опубликовано в 2015 году. Автор получил его используя обобщенные барицентрические координаты для выпуклых многоугольников.
 
 
 ## Отображение четырехугольника в прямоугольник
@@ -86,11 +84,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NTQ1OTg0LC0xODE0MDQyNjI0LDIyMT
-Q2NzYwNCwxMzkzMjgzNDUsMTM3MDMzODk3NCwxMjUzOTI3MTE5
-LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMT
-A1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1
-NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMT
-c4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4
-ODExNTk0XX0=
+eyJoaXN0b3J5IjpbMTcxMzUzMzEyNSwtMTgxNDA0MjYyNCwyMj
+E0Njc2MDQsMTM5MzI4MzQ1LDEzNzAzMzg5NzQsMTI1MzkyNzEx
+OSwyMTA2ODI4NTg1LDEyMjc5OTc0OTcsLTE0MTkyMDQ1MjQsLT
+EwNTU1NDk0MjMsLTE5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4
+NTQ5NSwxNDU5MDE2MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLD
+E3ODU4Mzk3NDksLTE5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1
+ODgxMTU5NF19
 -->
