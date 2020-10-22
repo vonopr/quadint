@@ -30,7 +30,7 @@ $$
 ### Билинейная интерполяция в НЕ-прямоугольнике
 Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника так же взаимно-однозначно отображает его на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
-Оказалось, что для обратного преобразования 
+Оказалось, что для обратного преобразования $(\alpha,\beta)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta)$
 
 ## Отображение четырехугольника в прямоугольник
 Даны  вершины выпуклого четырехугольника $1243$  с координатами $(x_n,y_n)$ и значениями $f_n$. 
@@ -85,7 +85,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkzOTg5NDMsLTE4MTQwNDI2MjQsMj
+eyJoaXN0b3J5IjpbLTE1MTg1MDU1NzksLTE4MTQwNDI2MjQsMj
 IxNDY3NjA0LDEzOTMyODM0NSwxMzcwMzM4OTc0LDEyNTM5Mjcx
 MTksMjEwNjgyODU4NSwxMjI3OTk3NDk3LC0xNDE5MjA0NTI0LC
 0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LDcwOTQzNTE4Niw2MDQ0
