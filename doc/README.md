@@ -30,7 +30,7 @@ $$
 $$\left[-\frac12;\frac12 \right]\times\left\{-\frac12\right\},\\
  \left\{\frac12\right\}\times\left[-\frac12;\frac12 \right],\\
  \left[-\frac12;\frac12 \right]\times\left\{\frac12\right\},\\
- \left\{-\frac12\right\}\times\left[-\frac12;\frac12 \right]$$
+ \left\{-\frac12\right\}\times\left[-\frac12;\frac12 \right].$$
 
 
 ### Взаимная однозначность отображения выпуклого четырехугольника в квадрат
@@ -41,60 +41,13 @@ $$\left[-\frac12;\frac12 \right]\times\left\{-\frac12\right\},\\
 
 
 
-## Мусор
-Даны  вершины выпуклого четырехугольника $1243$  с координатами $(x_n,y_n)$ и значениями $f_n$. 
-
-```ascii
-           2
-            X                                
-    1 
-     X              4
-                X
-    X
-   
-```
-
-
-
-Можно показать, что якобиан преобразования $\eta_{xy}$ отличен от нуля в любой точке выпуклого четырехугольника,   $(\hat{\eta}_{xy})^{-1}$ задает взаимно-однозначное соответствие между точками  $1243$ и квадратом $[-\frac12;\frac12]^2$, при этом стороны четырехугольника переходят в стороны квадрата.
-
-
-Границы
-
-
-$$ 
-\small
-x = 
-   x_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
-   x_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
-   x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
-   x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
- y = 
-   y_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
-   y_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\ 
-   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
-   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
-$$
-
-
-```ascii
-
-    1       2
-     X - - X
-     |     |
-     |     |
-     X - - X
-    3       4
-   ```
-
-
 ## Литература
 <a id="1">[1]</a>Floater M. S. The inverse of a rational bilinear mapping //Computer Aided Geometric Design. – 2015. – Т. 33. – С. 46-50.
 <a id="2">[2]</a> Sederberg T. W., Zheng J. Birational quadrilateral maps //Computer Aided Geometric Design. – 2015. – Т. 32. – С. 1-4.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Njg3ODQ1NywxMTU0NzU5MDQyLC0xOD
+eyJoaXN0b3J5IjpbMTA4MTI1OTI0MywxMTU0NzU5MDQyLC0xOD
 E0MDQyNjI0LDIyMTQ2NzYwNCwxMzkzMjgzNDUsMTM3MDMzODk3
 NCwxMjUzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMT
 QxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0
