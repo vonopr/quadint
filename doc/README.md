@@ -7,13 +7,13 @@
 $$
 \hat{\eta}_{\varphi} (\alpha, \beta) \equiv
   \varphi_1 \cdot (1/2-\alpha )  (1/2-\beta) +  \varphi _2\cdot (1/2+\alpha) (1/2-\beta)  +\\
-  \varphi_3  \cdot (1/2-\alpha) (1/2+\beta)  + \varphi_4 \cdot  (1/2+\alpha)(1/2+\beta),
+  \varphi_3  \cdot (1/2-\alpha) (1/2+\beta)  + \varphi_4 \cdot  (1/2+\alpha)(1/2+\beta);\\
+x = \hat{\eta}_x(\alpha, \beta) ,\\
+y = \hat{\eta}_y(\alpha, \beta) , \\
+\hat{f}(\alpha,\beta) =
 $$
 где $\varphi \equiv$  $x,y$ или $f$. Тогда
-$$
-x = \hat{\eta}_x(\alpha, \beta) ,\\
-y = \hat{\eta}_y(\alpha, \beta) ; \,
-$$
+
 или
 $$ 
 \small
@@ -82,11 +82,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NzMwMDEwLDEzNzAzMzg5NzQsMTI1Mz
-kyNzExOSwyMTA2ODI4NTg1LDEyMjc5OTc0OTcsLTE0MTkyMDQ1
-MjQsLTEwNTU1NDk0MjMsLTE5Mjg3ODIwMjgsNzA5NDM1MTg2LD
-YwNDQ4NTQ5NSwxNDU5MDE2MjIwLDE5MTA3MTM1NDcsMjc4OTAz
-NzUxLDE3ODU4Mzk3NDksLTE5NzcxMjUzNDksLTE0NzQ2MDQ2OT
-AsMTI1ODgxMTU5NCwtMTI2MTAyNzg1MCwtMTU2NzU1MTQ2MSwz
-MTc4NjQ0NTVdfQ==
+eyJoaXN0b3J5IjpbLTEzODc3MzgzOTksMTM3MDMzODk3NCwxMj
+UzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIw
+NDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxOD
+YsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5
+MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwND
+Y5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYx
+LDMxNzg2NDQ1NV19
 -->
