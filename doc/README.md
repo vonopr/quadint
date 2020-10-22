@@ -3,7 +3,7 @@
 ## Введение
 
 ### Билинейная интерполяция в прямоугольнике
-Отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1234$ можно с помощью преобразования билинейного преобразования $\hat{\eta}_{xy}$ 
+Отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1234$ можно с помощью преобразования билинейного преобразования $\hat{\eta}_{\varphi}$, примененного к 
 $$
 \hat{\eta}_{xy}(\alpha, \beta)\equiv(\hat{\eta}_x(\alpha, \beta),\hat{\eta}_y(\alpha, \beta)),\\
 \hat{\eta}_{\varphi} (\alpha, \beta) \equiv
@@ -83,11 +83,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMTEwOTk4LDEyNTM5MjcxMTksMjEwNj
-gyODU4NSwxMjI3OTk3NDk3LC0xNDE5MjA0NTI0LC0xMDU1NTQ5
-NDIzLC0xOTI4NzgyMDI4LDcwOTQzNTE4Niw2MDQ0ODU0OTUsMT
-Q1OTAxNjIyMCwxOTEwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5
-NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OT
-QsLTEyNjEwMjc4NTAsLTE1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3
-MjY4NTk5OF19
+eyJoaXN0b3J5IjpbMTM3MDMzODk3NCwxMjUzOTI3MTE5LDIxMD
+Y4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0
+OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LD
+E0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgz
+OTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNT
+k0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0
+NzI2ODU5OThdfQ==
 -->
