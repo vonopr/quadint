@@ -25,7 +25,7 @@ $$
 $$
 где $x_{-}\equiv x_1=x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
-Отображение $(x,y)=(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки $P{1234}$ прямоугольника на единичный квадрат $\left[-\frac12, \frac12 \right]$
+Отображение $(x,y)=(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки $P\{1234\}$ прямоугольника на единичный квадрат $\left[-\frac12, \frac12 \right].$
 
 ### Билинейная интерполяция в НЕ-прямоугольнике
 Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника? В этом случае можно построить взаимно-однозначное отображение
@@ -82,11 +82,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzI4MzQ1LDEzNzAzMzg5NzQsMTI1Mz
-kyNzExOSwyMTA2ODI4NTg1LDEyMjc5OTc0OTcsLTE0MTkyMDQ1
-MjQsLTEwNTU1NDk0MjMsLTE5Mjg3ODIwMjgsNzA5NDM1MTg2LD
-YwNDQ4NTQ5NSwxNDU5MDE2MjIwLDE5MTA3MTM1NDcsMjc4OTAz
-NzUxLDE3ODU4Mzk3NDksLTE5NzcxMjUzNDksLTE0NzQ2MDQ2OT
-AsMTI1ODgxMTU5NCwtMTI2MTAyNzg1MCwtMTU2NzU1MTQ2MSwz
-MTc4NjQ0NTVdfQ==
+eyJoaXN0b3J5IjpbLTg3ODAzMzQ3MSwxMzkzMjgzNDUsMTM3MD
+MzODk3NCwxMjUzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5
+NywtMTQxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOC
+w3MDk0MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcx
+MzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0OS
+wtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC0x
+NTY3NTUxNDYxXX0=
 -->
