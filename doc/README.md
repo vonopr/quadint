@@ -3,7 +3,7 @@
 ## Введение
 
 ### Билинейная интерполяция в прямоугольнике
-Билинейная интерполяция применяется позволяет отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1243$ с помощью преобразования
+Билинейная интерполяция применяется отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1243$ с помощью преобразования
 $$
 \alpha = \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
 \beta= \frac{y-\frac{y_{+}+y_{-}}{2}}{y_{+}-y_{-}},\\
@@ -80,7 +80,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTQ5MTM0MSwxMjUzOTI3MTE5LDIxMD
+eyJoaXN0b3J5IjpbMTM3NTkyMzAxNiwxMjUzOTI3MTE5LDIxMD
 Y4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0
 OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LD
 E0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgz
