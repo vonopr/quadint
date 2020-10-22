@@ -30,7 +30,7 @@ $$
 ### Билинейная интерполяция в НЕ-прямоугольнике
 Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника так же взаимно-однозначно отображает его на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
-Оказалось, что для обратного преобразования $(\alpha,\beta)\overset{\hat{\eta}^{-1}_{xy}}{= }(\alpha(x,y), )$
+Оказалось [[2]](#2) , что для обратного преобразования $(\alpha,\beta)\overset{\hat{\eta}^{-1}_{xy}}{= }(\alpha(x,y), \beta(x,y))$ существует явное выражение. Оно было опубликовано в 2015 году, автор исп
 
 
 ## Отображение четырехугольника в прямоугольник
@@ -86,11 +86,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Njk5Njk5MSwtMTgxNDA0MjYyNCwyMj
-E0Njc2MDQsMTM5MzI4MzQ1LDEzNzAzMzg5NzQsMTI1MzkyNzEx
-OSwyMTA2ODI4NTg1LDEyMjc5OTc0OTcsLTE0MTkyMDQ1MjQsLT
-EwNTU1NDk0MjMsLTE5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4
-NTQ5NSwxNDU5MDE2MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLD
-E3ODU4Mzk3NDksLTE5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1
-ODgxMTU5NF19
+eyJoaXN0b3J5IjpbMzE5NTQ1OTg0LC0xODE0MDQyNjI0LDIyMT
+Q2NzYwNCwxMzkzMjgzNDUsMTM3MDMzODk3NCwxMjUzOTI3MTE5
+LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMT
+A1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1
+NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMT
+c4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4
+ODExNTk0XX0=
 -->
