@@ -2,7 +2,7 @@
 
 ## Введение
 
-### Билинейная интерполяция
+### Билинейная интерполяция пр
 Билинейная интерполяция позволяет отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1243$ с помощью преобразования
 $$
 \hat{f}(x,y) = f_1 \frac{ (x_{+}-x)(y_{+}-y)}{(x_{+}-x_{-})(y_{+}-y_{-})} +
@@ -74,11 +74,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjgyODU4NSwxMjI3OTk3NDk3LC0xND
-E5MjA0NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LDcwOTQz
-NTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEzNTQ3LD
-I3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0
-NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NT
-E0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
-
+eyJoaXN0b3J5IjpbMzEwMjQ4NzYyLDIxMDY4Mjg1ODUsMTIyNz
+k5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4
+MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMT
+kxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEy
+NTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3OD
+UwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OTgsMTI2
+OTQ0OTQzN119
 -->
