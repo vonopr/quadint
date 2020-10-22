@@ -26,7 +26,10 @@ $$
 Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки прямоугольника 1234 на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
 ## Билинейная интерполяция в выпуклом четырехугольнике
-Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника так же взаимно-однозначно отображает его на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
+Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника так же взаимно-однозначно отображает его на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$. При этом сторона 12
+
+### Взаимная однозначность отображения выпуклого четырехугольника в квадрат
+
 
 ### Обратное преобразование квадрата в четырехугольник
 Оказалось [[2]](#2) , что для обратного преобразования $(\alpha,\beta)\overset{\hat{\eta}^{-1}_{xy}}{= }(\alpha(x,y), \beta(x,y))$ существует явное выражение. Оно было опубликовано в 2015 году. Автор получил его используя обобщенные барицентрические координаты для выпуклых многоугольников.
@@ -86,11 +89,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDc1OTA0MiwtMTgxNDA0MjYyNCwyMj
-E0Njc2MDQsMTM5MzI4MzQ1LDEzNzAzMzg5NzQsMTI1MzkyNzEx
-OSwyMTA2ODI4NTg1LDEyMjc5OTc0OTcsLTE0MTkyMDQ1MjQsLT
-EwNTU1NDk0MjMsLTE5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4
-NTQ5NSwxNDU5MDE2MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLD
-E3ODU4Mzk3NDksLTE5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1
-ODgxMTU5NF19
+eyJoaXN0b3J5IjpbLTEyNTg4Nzg4OSwxMTU0NzU5MDQyLC0xOD
+E0MDQyNjI0LDIyMTQ2NzYwNCwxMzkzMjgzNDUsMTM3MDMzODk3
+NCwxMjUzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMT
+QxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0
+MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0Ny
+wyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3
+NDYwNDY5MF19
 -->
