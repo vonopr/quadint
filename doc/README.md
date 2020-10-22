@@ -81,18 +81,15 @@ $$
    ```
 
 
-## Ссылки
-[1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
-
-
-<a id="1">[1]</a> Dijkstra, E. W. (1968). Go to statement considered harmful. Communications of the ACM, 11(3), 147-148.
+## Литература
+<a id="1">[1]</a> Sederberg T. W., Zheng J. Birational quadrilateral maps //Computer Aided Geometric Design. – 2015. – Т. 32. – С. 1-4.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzNjYxNjQxLDIyMTQ2NzYwNCwxMzkzMj
-gzNDUsMTM3MDMzODk3NCwxMjUzOTI3MTE5LDIxMDY4Mjg1ODUs
-MTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0OTQyMywtMT
-kyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYy
-MjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMT
-k3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYx
-MDI3ODUwXX0=
+eyJoaXN0b3J5IjpbMTU4NDQyMjcyMCwyMjE0Njc2MDQsMTM5Mz
+I4MzQ1LDEzNzAzMzg5NzQsMTI1MzkyNzExOSwyMTA2ODI4NTg1
+LDEyMjc5OTc0OTcsLTE0MTkyMDQ1MjQsLTEwNTU1NDk0MjMsLT
+E5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2
+MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLT
+E5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2
+MTAyNzg1MF19
 -->
