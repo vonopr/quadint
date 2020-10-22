@@ -25,12 +25,10 @@ $$
 $$
 где $x_{-}\equiv x_1= x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
-Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки $R\{1234\}$ прямоугольника на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
+Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки прямоугольника 12334 на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
 ### Билинейная интерполяция в НЕ-прямоугольнике
-Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1)
-
-преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника взаимно-однозначное отображает точки $Q\{1234\}$ четырехугольника на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
+Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника взаимно-однозначное отображает $Q\{1234\}$ четырехугольника на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
  использовать четырехугольную интерполяцию Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
 
@@ -82,10 +80,12 @@ $$
 
 
 ## Литература
-<a id="1">[1]</a> Sederberg T. W., Zheng J. Birational quadrilateral maps //Computer Aided Geometric Design. – 2015. – Т. 32. – С. 1-4.
+<a id="1">[1]</a>Floater M. S. The inverse of a rational bilinear mapping //Computer Aided Geometric Design. – 2015. – Т. 33. – С. 46-50.
+<a id="2">[2]</a> Sederberg T. W., Zheng J. Birational quadrilateral maps //Computer Aided Geometric Design. – 2015. – Т. 32. – С. 1-4.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDQyMjcyMCwyMjE0Njc2MDQsMTM5Mz
+eyJoaXN0b3J5IjpbLTIwMDY2Njg4MCwyMjE0Njc2MDQsMTM5Mz
 I4MzQ1LDEzNzAzMzg5NzQsMTI1MzkyNzExOSwyMTA2ODI4NTg1
 LDEyMjc5OTc0OTcsLTE0MTkyMDQ1MjQsLTEwNTU1NDk0MjMsLT
 E5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2
