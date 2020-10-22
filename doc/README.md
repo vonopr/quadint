@@ -5,10 +5,13 @@
 ### Билинейная интерполяция в прямоугольнике
 Билинейная интерполяция позволяет отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1243$ с помощью преобразования
 $$
-\alpha = \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}}\\
-\hat{f}(x,y) = f_1 \frac{ (x_{+}-x)(y_{+}-y)}{(x_{+}-x_{-})(y_{+}-y_{-})} +
-f_2 \frac{(x-x_{-})(y_{+}-y)}{(x_{+}-x_{-})(y_{+}-y_{-})} +\\
-f_3 \frac{(x-x_{-})(y-y_{-})}{(x_{+}-x_{-})(y_{+}-y_{-})}+f_4 \frac{(x_{+}-x)(y-y_{-})}{(x_{+}-x_{-})(y_{+}-y_{-})} ,
+\alpha = \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
+\beta= \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
+\hat{f}(x,y) = 
+   f_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
+   f_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
+   f_3  \cdot \left(\frac12+\alpha \right)  \left(\frac12+\beta \right)  + 
+   f_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
 $$
 где $x_{-}\equiv x_1=x_3$, $x_{+} \equiv x_2=x_4$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
@@ -77,7 +80,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzk2NDM3OSwyMTA2ODI4NTg1LDEyMj
+eyJoaXN0b3J5IjpbMTI1MzkyNzExOSwyMTA2ODI4NTg1LDEyMj
 c5OTc0OTcsLTE0MTkyMDQ1MjQsLTEwNTU1NDk0MjMsLTE5Mjg3
 ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2MjIwLD
 E5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLTE5Nzcx
