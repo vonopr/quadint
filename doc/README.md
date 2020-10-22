@@ -25,6 +25,8 @@ $$
 $$
 где $x_{-}\equiv x_1=x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
+Отображение $(x,y)=$
+
 ### Билинейная интерполяция в НЕ-прямоугольнике
 Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника? В этом случае можно построить взаимно-однозначное отображение
 
@@ -80,11 +82,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg3MjE2MDksMTM3MDMzODk3NCwxMj
-UzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIw
-NDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxOD
-YsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5
-MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwND
-Y5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYx
-LDMxNzg2NDQ1NV19
+eyJoaXN0b3J5IjpbLTk1NTYzNTg4MiwxMzcwMzM4OTc0LDEyNT
+M5MjcxMTksMjEwNjgyODU4NSwxMjI3OTk3NDk3LC0xNDE5MjA0
+NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LDcwOTQzNTE4Ni
+w2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEzNTQ3LDI3ODkw
+Mzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0Nj
+kwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NTE0NjEs
+MzE3ODY0NDU1XX0=
 -->
