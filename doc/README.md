@@ -31,6 +31,12 @@ $$
 Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника так же взаимно-однозначно отображает его на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
 Оказалось, что для обратного преобразования $(\alpha,\beta)\overset{(\hat{\eta}_{xy})^{-1}}{=  }(\hat{\eta}_x(\alpha,\beta)$
+$$
+=\mathrel{\mkern-3mu} 
+$$
+```
+\mathrel{\mkern-3mu}
+```
 
 ## Отображение четырехугольника в прямоугольник
 Даны  вершины выпуклого четырехугольника $1243$  с координатами $(x_n,y_n)$ и значениями $f_n$. 
@@ -85,7 +91,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTc3NTU3NCwtMTgxNDA0MjYyNCwyMj
+eyJoaXN0b3J5IjpbLTE1MjgyNzIyNywtMTgxNDA0MjYyNCwyMj
 E0Njc2MDQsMTM5MzI4MzQ1LDEzNzAzMzg5NzQsMTI1MzkyNzEx
 OSwyMTA2ODI4NTg1LDEyMjc5OTc0OTcsLTE0MTkyMDQ1MjQsLT
 EwNTU1NDk0MjMsLTE5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4
