@@ -3,7 +3,7 @@
 ## Введение
 
 ### Билинейная интерполяция в прямоугольнике
-Отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1234$ можно с помощью преобразования билинейного преобразования $\hat{\eta}_{\varphi}$, примененного к координатам вершин и значениям $f$  в вершинах:
+Отобразим значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1234$ с помощью преобразования билинейного преобразования $\hat{\eta}_{\varphi}$, примененного к координатам вершин $(x_n,y_n)$ и значениям $f_n$  в вершинах:
 $$
 \hat{\eta}_{\varphi} (\alpha, \beta) \equiv
   \varphi_1 \cdot (1/2-\alpha )  (1/2-\beta) +  \varphi _2\cdot (1/2+\alpha) (1/2-\beta)  +\\
@@ -17,7 +17,7 @@ $$
 $$
 \alpha = \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
 \beta= \frac{y-\frac{y_{+}+y_{-}}{2}}{y_{+}-y_{-}},\\
-\hat{f}(x,y) = 
+\hat{f}(\alpha,\beta) = 
    f_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
    f_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
    f_3  \cdot \left(\frac12+\alpha \right)  \left(\frac12+\beta \right)  + 
@@ -80,7 +80,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA3Njk4ODQsMTM3MDMzODk3NCwxMj
+eyJoaXN0b3J5IjpbLTE3Njg3MjE2MDksMTM3MDMzODk3NCwxMj
 UzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIw
 NDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxOD
 YsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5
