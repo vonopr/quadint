@@ -28,7 +28,7 @@ $$
 Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки $R\{1234\}$ прямоугольника на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
 ### Билинейная интерполяция в НЕ-прямоугольнике
-Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае  [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника взаимно-однозначное отображает точки $Q\{1234\}$ четырехугольника на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
+Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае  [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/).преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника взаимно-однозначное отображает точки $Q\{1234\}$ четырехугольника на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
  использовать четырехугольную интерполяцию Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
 
@@ -82,11 +82,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNDY3NjA0LDEzOTMyODM0NSwxMzcwMz
-M4OTc0LDEyNTM5MjcxMTksMjEwNjgyODU4NSwxMjI3OTk3NDk3
-LC0xNDE5MjA0NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LD
-cwOTQzNTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEz
-NTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC
-0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1
-Njc1NTE0NjFdfQ==
+eyJoaXN0b3J5IjpbMTc1OTI2NjQ2MiwyMjE0Njc2MDQsMTM5Mz
+I4MzQ1LDEzNzAzMzg5NzQsMTI1MzkyNzExOSwyMTA2ODI4NTg1
+LDEyMjc5OTc0OTcsLTE0MTkyMDQ1MjQsLTEwNTU1NDk0MjMsLT
+E5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2
+MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLT
+E5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2
+MTAyNzg1MF19
 -->
