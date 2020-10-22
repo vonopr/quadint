@@ -12,7 +12,8 @@ $$
 где $x_{-}\equiv x_1=x_3$, $x_{+} \equiv x_2=x_4$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
 ### Билинейная интерполяция в НЕ-прямоугольнике
-Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника? В этом случае можно
+Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника? В этом случае можно построить взаимно-однозначное отображение
+
  использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
 
 ## Отображение четырехугольника в прямоугольник
@@ -75,11 +76,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NTgyNDA2LDIxMDY4Mjg1ODUsMTIyNz
-k5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4
-MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMT
-kxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEy
-NTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC0xMjYxMDI3OD
-UwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2ODU5OTgsMTI2
-OTQ0OTQzN119
+eyJoaXN0b3J5IjpbLTEzODQxMTkyNzcsMjEwNjgyODU4NSwxMj
+I3OTk3NDk3LC0xNDE5MjA0NTI0LC0xMDU1NTQ5NDIzLC0xOTI4
+NzgyMDI4LDcwOTQzNTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIyMC
+wxOTEwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3
+MTI1MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMj
+c4NTAsLTE1Njc1NTE0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OCwx
+MjY5NDQ5NDM3XX0=
 -->
