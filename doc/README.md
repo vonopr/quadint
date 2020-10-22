@@ -7,14 +7,11 @@
 $$
 \hat{\eta}_{\varphi} (\alpha, \beta) \equiv
   \varphi_1 \cdot (1/2-\alpha )  (1/2-\beta) +  \varphi _2\cdot (1/2+\alpha) (1/2-\beta)  +\\
-  \varphi_3  \cdot (1/2-\alpha) (1/2+\beta)  + \varphi_4 \cdot  (1/2+\alpha)(1/2+\beta);\\
+  \varphi_3  \cdot (1/2+\alpha) (1/2+\beta)  + \varphi_4 \cdot  (1/2-\alpha)(1/2+\beta);\\
 x = \hat{\eta}_x(\alpha, \beta) ,\\
 y = \hat{\eta}_y(\alpha, \beta) , \\
 \hat{f}(\alpha,\beta) =\hat{\eta}_{f}(\alpha,\beta).
 $$
-где $\varphi \equiv$  $x,y$ или $f$. Тогда
-
-или
 
 
 отображает четырехугольник $1234$ в квадрат $[-\frac12;\frac12]^2$. Пусть
@@ -85,7 +82,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODgzNjM3OCwxMzcwMzM4OTc0LDEyNT
+eyJoaXN0b3J5IjpbLTgzOTQ0NTEzMiwxMzcwMzM4OTc0LDEyNT
 M5MjcxMTksMjEwNjgyODU4NSwxMjI3OTk3NDk3LC0xNDE5MjA0
 NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LDcwOTQzNTE4Ni
 w2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEzNTQ3LDI3ODkw
