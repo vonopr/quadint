@@ -25,12 +25,12 @@ $$
 $$
 где $x_{-}\equiv x_1= x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
-Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки $R\{1234\}$ прямоугольника на единичный квадрат $\left[-\frac12, \frac12 \right].$
+Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки $R\{1234\}$ прямоугольника на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
 ### Билинейная интерполяция в НЕ-прямоугольнике
-Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае можно преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника взаимно-однозначное отображает точки $Q\{1234\}$ четырехугольника на единичный квадрат 
+Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае  [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника взаимно-однозначное отображает точки $Q\{1234\}$ четырехугольника на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
- использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
+ использовать четырехугольную интерполяцию Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
 
 ## Отображение четырехугольника в прямоугольник
 Даны  вершины выпуклого четырехугольника $1243$  с координатами $(x_n,y_n)$ и значениями $f_n$. 
@@ -82,11 +82,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc4MTE4MDEsMTM5MzI4MzQ1LDEzNz
-AzMzg5NzQsMTI1MzkyNzExOSwyMTA2ODI4NTg1LDEyMjc5OTc0
-OTcsLTE0MTkyMDQ1MjQsLTEwNTU1NDk0MjMsLTE5Mjg3ODIwMj
-gsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2MjIwLDE5MTA3
-MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLTE5NzcxMjUzND
-ksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAyNzg1MCwt
-MTU2NzU1MTQ2MV19
+eyJoaXN0b3J5IjpbMjIxNDY3NjA0LDEzOTMyODM0NSwxMzcwMz
+M4OTc0LDEyNTM5MjcxMTksMjEwNjgyODU4NSwxMjI3OTk3NDk3
+LC0xNDE5MjA0NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LD
+cwOTQzNTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEz
+NTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC
+0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1
+Njc1NTE0NjFdfQ==
 -->
