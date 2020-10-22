@@ -13,9 +13,7 @@ y = \hat{\eta}_y(\alpha, \beta) , \\
 \hat{f}(\alpha,\beta) =\hat{\eta}_{f}(\alpha,\beta).
 $$
 
-Выразим $\alpha$ и $\beta$ через $x$ и $y$ и распишем 
-отображает четырехугольник $1234$ в квадрат $[-\frac12;\frac12]^2$. Пусть
-
+Выразим $\alpha$ и $\beta$ через $x$ и $y$ и распишем выражения для $\hat{f}(\alpha,\beta)$:
 $$
 \alpha = \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
 \beta= \frac{y-\frac{y_{+}+y_{-}}{2}}{y_{+}-y_{-}},\\
@@ -25,7 +23,7 @@ $$
    f_3  \cdot \left(\frac12+\alpha \right)  \left(\frac12+\beta \right)  + 
    f_4 \cdot  \left(\frac12-\alpha \right) \left(\frac12+\beta \right) , \\
 $$
-где $x_{-}\equiv x_1=x_3$, $x_{+} \equiv x_2=x_4$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
+где $x_{-}\equiv x_1=x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
 ### Билинейная интерполяция в НЕ-прямоугольнике
 Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника? В этом случае можно построить взаимно-однозначное отображение
@@ -82,11 +80,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzAzNjU1OCwxMzcwMzM4OTc0LDEyNT
-M5MjcxMTksMjEwNjgyODU4NSwxMjI3OTk3NDk3LC0xNDE5MjA0
-NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LDcwOTQzNTE4Ni
-w2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEzNTQ3LDI3ODkw
-Mzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0Nj
-kwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NTE0NjEs
-MzE3ODY0NDU1XX0=
+eyJoaXN0b3J5IjpbLTEyODA3Njk4ODQsMTM3MDMzODk3NCwxMj
+UzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIw
+NDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxOD
+YsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5
+MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwND
+Y5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYx
+LDMxNzg2NDQ1NV19
 -->
