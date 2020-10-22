@@ -3,7 +3,7 @@
 ## Введение
 
 ### Билинейная интерполяция в прямоугольнике
-Билинейная интерполяция позволяет отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1243$ с помощью преобразования
+Билинейная интерполяция применяется позволяет отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1243$ с помощью преобразования
 $$
 \alpha = \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
 \beta= \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
@@ -11,7 +11,7 @@ $$
    f_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
    f_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
    f_3  \cdot \left(\frac12+\alpha \right)  \left(\frac12+\beta \right)  + 
-   f_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
+   f_4 \cdot  \left(\frac12-\alpha \right) \left(\frac12+\beta \right) , \\
 $$
 где $x_{-}\equiv x_1=x_3$, $x_{+} \equiv x_2=x_4$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
@@ -80,11 +80,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzkyNzExOSwyMTA2ODI4NTg1LDEyMj
-c5OTc0OTcsLTE0MTkyMDQ1MjQsLTEwNTU1NDk0MjMsLTE5Mjg3
-ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2MjIwLD
-E5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLTE5Nzcx
-MjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2MTAyNz
-g1MCwtMTU2NzU1MTQ2MSwzMTc4NjQ0NTUsNDcyNjg1OTk4LDEy
-Njk0NDk0MzddfQ==
+eyJoaXN0b3J5IjpbODUyNTk5OCwxMjUzOTI3MTE5LDIxMDY4Mj
+g1ODUsMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0OTQy
+MywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LDE0NT
+kwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0
+OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC
+0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2
+ODU5OThdfQ==
 -->
