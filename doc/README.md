@@ -7,8 +7,7 @@
 $$
 \hat{f}(x,y) = f_1 \frac{ (x_{+}-x)(y_{+}-y)}{(x_{+}-x_{-})(y_{+}-y_{-})} +
 f_2 \frac{(x-x_{-})(y_{+}-y)}{(x_{+}-x_{-})(y_{+}-y_{-})} +\\
-+f_3 \frac{(x_{+}-x)(y-y_{-})}{(x_{+}-x_{-})(y_{+}-y_{-})} +
-f_4 \frac{(x-x_{-})(y-y_{-})}{(x_{+}-x_{-})(y_{+}-y_{-})},
+f_3 \frac{(x-x_{-})(y-y_{-})}{(x_{+}-x_{-})(y_{+}-y_{-})}+f_4 \frac{(x_{+}-x)(y-y_{-})}{(x_{+}-x_{-})(y_{+}-y_{-})} ,
 $$
 где $x_{-}\equiv x_1=x_3$, $x_{+} \equiv x_2=x_4$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
@@ -28,7 +27,7 @@ $$
    
 ```
 
-С помощью билинейного преобразования $(\hat{\eta}_{xy})^{-1}$ отобразим четырехугольник $1243$ в квадрат $[-\frac12;\frac12]^2$. Пусть
+Билинейное преобразование $(\hat{\eta}_{xy})^{-1}$ отображает четырехугольник $1234$ в квадрат $[-\frac12;\frac12]^2$. Пусть
 $$
 \hat{\eta}_{xy}(\alpha, \beta)\equiv(\hat{\eta}_x(\alpha, \beta),\hat{\eta}_y(\alpha, \beta)),\\
 \hat{\eta}_{\varphi} (\alpha, \beta) \equiv
@@ -75,10 +74,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMT
-A1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1
-NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMT
-c4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4
-ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2ND
-Q1NSw0NzI2ODU5OTgsMTI2OTQ0OTQzN119
+eyJoaXN0b3J5IjpbMjEwNjgyODU4NSwxMjI3OTk3NDk3LC0xND
+E5MjA0NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LDcwOTQz
+NTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEzNTQ3LD
+I3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0
+NjA0NjkwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NT
+E0NjEsMzE3ODY0NDU1LDQ3MjY4NTk5OCwxMjY5NDQ5NDM3XX0=
+
 -->
