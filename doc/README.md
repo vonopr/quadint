@@ -27,8 +27,8 @@ $$
 
 ## Билинейная интерполяция в выпуклом четырехугольнике
 Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника так же взаимно-однозначно отображает его на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$. При этом стороны $12, 23, 34, 41$ переходят соответственно  в стороны
-$$\left[-\frac12;\frac12 \right]\times\{-\frac12\}, \{\frac12\}\times\left[-\frac12;\frac12 \right],\left[-\frac12;\frac12 \right]\times\{\frac12\},$$
-$\left{as\right}$
+$$\left[-\frac12;\frac12 \right]\times\left\{-\frac12\right\}, \{\frac12\}\times\left[-\frac12;\frac12 \right],\left[-\frac12;\frac12 \right]\times\{\frac12\},$$
+$\left\{   \right\}$
 
 ### Взаимная однозначность отображения выпуклого четырехугольника в квадрат
 
@@ -91,7 +91,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUyMTk2MDEsMTE1NDc1OTA0MiwtMT
+eyJoaXN0b3J5IjpbLTE0MTkyNTQ4NjAsMTE1NDc1OTA0MiwtMT
 gxNDA0MjYyNCwyMjE0Njc2MDQsMTM5MzI4MzQ1LDEzNzAzMzg5
 NzQsMTI1MzkyNzExOSwyMTA2ODI4NTg1LDEyMjc5OTc0OTcsLT
 E0MTkyMDQ1MjQsLTEwNTU1NDk0MjMsLTE5Mjg3ODIwMjgsNzA5
