@@ -6,7 +6,7 @@
 Билинейная интерполяция применяется позволяет отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1243$ с помощью преобразования
 $$
 \alpha = \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
-\beta= \frac{x-\frac{x_{+}+x_{-}}{2}}{x_{+}-x_{-}},\\
+\beta= \frac{y-\frac{y_{+}+y_{-}}{2}}{y_{+}-y_{-}},\\
 \hat{f}(x,y) = 
    f_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
    f_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
@@ -80,11 +80,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNTk5OCwxMjUzOTI3MTE5LDIxMDY4Mj
-g1ODUsMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0OTQy
-MywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LDE0NT
-kwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0
-OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNTk0LC
-0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0NzI2
-ODU5OThdfQ==
+eyJoaXN0b3J5IjpbMTkyNTQ5MTM0MSwxMjUzOTI3MTE5LDIxMD
+Y4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0
+OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LD
+E0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgz
+OTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwNDY5MCwxMjU4ODExNT
+k0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYxLDMxNzg2NDQ1NSw0
+NzI2ODU5OThdfQ==
 -->
