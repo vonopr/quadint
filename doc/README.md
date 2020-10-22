@@ -2,7 +2,7 @@
 
 ## Введение
 
-### Билинейная интерполяция пр
+### Билинейная интерполяция в прямоугольнике
 Билинейная интерполяция позволяет отобразить значения $f_{1,2,3,4}$, заданные  в вершинах прямоугольника, на внутренность этого прямоугольника $1243$ с помощью преобразования
 $$
 \hat{f}(x,y) = f_1 \frac{ (x_{+}-x)(y_{+}-y)}{(x_{+}-x_{-})(y_{+}-y_{-})} +
@@ -11,8 +11,9 @@ f_3 \frac{(x-x_{-})(y-y_{-})}{(x_{+}-x_{-})(y_{+}-y_{-})}+f_4 \frac{(x_{+}-x)(y-
 $$
 где $x_{-}\equiv x_1=x_3$, $x_{+} \equiv x_2=x_4$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
-### Что делать с НЕ-прямоугольником?
-Что делать, если значения заданы в узлах произвольного четырехугольника? В этом случае можно использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
+### Билинейная интерполяция в НЕ-прямоугольнике
+Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника? В этом случае можно
+ использовать четырехугольную интерполяцию [[1]](https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation), [[2]](http://reedbeta.com/blog/quadrilateral-interpolation-part-2/). Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
 
 ## Отображение четырехугольника в прямоугольник
 Даны  вершины выпуклого четырехугольника $1243$  с координатами $(x_n,y_n)$ и значениями $f_n$. 
@@ -74,7 +75,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwMjQ4NzYyLDIxMDY4Mjg1ODUsMTIyNz
+eyJoaXN0b3J5IjpbNDY4NTgyNDA2LDIxMDY4Mjg1ODUsMTIyNz
 k5NzQ5NywtMTQxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4
 MjAyOCw3MDk0MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMT
 kxMDcxMzU0NywyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEy
