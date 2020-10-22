@@ -10,24 +10,12 @@ $$
   \varphi_3  \cdot (1/2-\alpha) (1/2+\beta)  + \varphi_4 \cdot  (1/2+\alpha)(1/2+\beta);\\
 x = \hat{\eta}_x(\alpha, \beta) ,\\
 y = \hat{\eta}_y(\alpha, \beta) , \\
-\hat{f}(\alpha,\beta) =
+\hat{f}(\alpha,\beta) =\hat{\eta}_{f}(\alpha,\beta).
 $$
 где $\varphi \equiv$  $x,y$ или $f$. Тогда
 
 или
-$$ 
-\small
-x = 
-   x_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
-   x_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
-   x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
-   x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
- y = 
-   y_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
-   y_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\ 
-   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
-   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
-$$
+
 
 отображает четырехугольник $1234$ в квадрат $[-\frac12;\frac12]^2$. Пусть
 
@@ -67,6 +55,21 @@ $$
 
 Границы
 
+## Мусор
+$$ 
+\small
+x = 
+   x_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
+   x_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\
+   x_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
+   x_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right) , \\
+ y = 
+   y_1 \cdot \left(\frac12-\alpha \right)  \left( \frac12-\beta \right) +
+   y_2\cdot \left(\frac12+\alpha \right)   \left(\frac12-\beta \right)  +\\ 
+   y_3  \cdot \left(\frac12-\alpha \right)  \left(\frac12+\beta \right)  + 
+   y_4 \cdot  \left(\frac12+\alpha \right) \left(\frac12+\beta \right).
+$$
+
 
 ```ascii
 
@@ -82,11 +85,11 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc3MzgzOTksMTM3MDMzODk3NCwxMj
-UzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMTQxOTIw
-NDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0MzUxOD
-YsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0NywyNzg5
-MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3NDYwND
-Y5MCwxMjU4ODExNTk0LC0xMjYxMDI3ODUwLC0xNTY3NTUxNDYx
-LDMxNzg2NDQ1NV19
+eyJoaXN0b3J5IjpbLTgwODgzNjM3OCwxMzcwMzM4OTc0LDEyNT
+M5MjcxMTksMjEwNjgyODU4NSwxMjI3OTk3NDk3LC0xNDE5MjA0
+NTI0LC0xMDU1NTQ5NDIzLC0xOTI4NzgyMDI4LDcwOTQzNTE4Ni
+w2MDQ0ODU0OTUsMTQ1OTAxNjIyMCwxOTEwNzEzNTQ3LDI3ODkw
+Mzc1MSwxNzg1ODM5NzQ5LC0xOTc3MTI1MzQ5LC0xNDc0NjA0Nj
+kwLDEyNTg4MTE1OTQsLTEyNjEwMjc4NTAsLTE1Njc1NTE0NjEs
+MzE3ODY0NDU1XX0=
 -->
