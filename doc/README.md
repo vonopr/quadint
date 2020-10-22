@@ -25,12 +25,11 @@ $$
 $$
 где $x_{-}\equiv x_1= x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
-Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки прямоугольника 12334 на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
+Отображение $(x,y)\overset{\hat{\eta}_{xy}}{=}(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки прямоугольника 1234 на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
 ### Билинейная интерполяция в НЕ-прямоугольнике
-Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника взаимно-однозначное отображает $Q\{1234\}$ четырехугольника на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
+Что делать, если значения заданы в узлах произвольного  выпуклого четырехугольника $1234$? В этом случае [[1]](#1),[[2]](#2) преобразование $\hat{\eta}_{xy}$ координат точек четырехугольника так же взаимно-однозначно отображает его на единичный квадрат $\left[-\frac12, \frac12 \right]\times\left[-\frac12, \frac12 \right]$.
 
- использовать четырехугольную интерполяцию Это обобщение билинейной интерполяции на случай произвольного выпуклого четырехугольника.
 
 ## Отображение четырехугольника в прямоугольник
 Даны  вершины выпуклого четырехугольника $1243$  с координатами $(x_n,y_n)$ и значениями $f_n$. 
@@ -85,11 +84,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY2Njg4MCwyMjE0Njc2MDQsMTM5Mz
-I4MzQ1LDEzNzAzMzg5NzQsMTI1MzkyNzExOSwyMTA2ODI4NTg1
-LDEyMjc5OTc0OTcsLTE0MTkyMDQ1MjQsLTEwNTU1NDk0MjMsLT
-E5Mjg3ODIwMjgsNzA5NDM1MTg2LDYwNDQ4NTQ5NSwxNDU5MDE2
-MjIwLDE5MTA3MTM1NDcsMjc4OTAzNzUxLDE3ODU4Mzk3NDksLT
-E5NzcxMjUzNDksLTE0NzQ2MDQ2OTAsMTI1ODgxMTU5NCwtMTI2
-MTAyNzg1MF19
+eyJoaXN0b3J5IjpbLTE4MTQwNDI2MjQsMjIxNDY3NjA0LDEzOT
+MyODM0NSwxMzcwMzM4OTc0LDEyNTM5MjcxMTksMjEwNjgyODU4
+NSwxMjI3OTk3NDk3LC0xNDE5MjA0NTI0LC0xMDU1NTQ5NDIzLC
+0xOTI4NzgyMDI4LDcwOTQzNTE4Niw2MDQ0ODU0OTUsMTQ1OTAx
+NjIyMCwxOTEwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC
+0xOTc3MTI1MzQ5LC0xNDc0NjA0NjkwLDEyNTg4MTE1OTQsLTEy
+NjEwMjc4NTBdfQ==
 -->
