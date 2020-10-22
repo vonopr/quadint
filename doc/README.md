@@ -23,7 +23,7 @@ $$
    f_3  \cdot \left(\frac12+\alpha \right)  \left(\frac12+\beta \right)  + 
    f_4 \cdot  \left(\frac12-\alpha \right) \left(\frac12+\beta \right) , \\
 $$
-где $x_{-}\equiv x_1\over{=}{1} x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
+где $x_{-}\equiv x_1\overset{=}{=} x_4$, $x_{+} \equiv x_2=x_3$,  $y_{-} \equiv y_1=y_2$,  $y_{+} \equiv y_3=y_4$ ,  $(x_n,y_n)$ - координаты вершин.
 
 Отображение $(x,y)=(\hat{\eta}_x(\alpha,\beta), \hat{\eta}_y(\alpha,\beta))$ биективно отображает точки $P\{1234\}$ прямоугольника на единичный квадрат $\left[-\frac12, \frac12 \right].$
 
@@ -82,7 +82,7 @@ $$
 ## Ссылки
 [1] https://math.stackexchange.com/questions/2007116/quadrilateral-interpolation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTcxOTAzOCwxMzkzMjgzNDUsMTM3MD
+eyJoaXN0b3J5IjpbMTg1NzAyMDUwMCwxMzkzMjgzNDUsMTM3MD
 MzODk3NCwxMjUzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5
 NywtMTQxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOC
 w3MDk0MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcx
