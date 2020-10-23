@@ -45,13 +45,12 @@ $$\left[-\frac12;\frac12 \right]\times\left\{-\frac12\right\},\\
 <a id="1">[1]</a>Floater M. S. The inverse of a rational bilinear mapping //Computer Aided Geometric Design. – 2015. – Т. 33. – С. 46-50.
 <a id="2">[2]</a> Sederberg T. W., Zheng J. Birational quadrilateral maps //Computer Aided Geometric Design. – 2015. – Т. 32. – С. 1-4.
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTI1OTI0MywxMTU0NzU5MDQyLC0xOD
-E0MDQyNjI0LDIyMTQ2NzYwNCwxMzkzMjgzNDUsMTM3MDMzODk3
-NCwxMjUzOTI3MTE5LDIxMDY4Mjg1ODUsMTIyNzk5NzQ5NywtMT
-QxOTIwNDUyNCwtMTA1NTU0OTQyMywtMTkyODc4MjAyOCw3MDk0
-MzUxODYsNjA0NDg1NDk1LDE0NTkwMTYyMjAsMTkxMDcxMzU0Ny
-wyNzg5MDM3NTEsMTc4NTgzOTc0OSwtMTk3NzEyNTM0OSwtMTQ3
-NDYwNDY5MF19
+eyJoaXN0b3J5IjpbMTkyNTI2Mzg2OSwxMDgxMjU5MjQzLDExNT
+Q3NTkwNDIsLTE4MTQwNDI2MjQsMjIxNDY3NjA0LDEzOTMyODM0
+NSwxMzcwMzM4OTc0LDEyNTM5MjcxMTksMjEwNjgyODU4NSwxMj
+I3OTk3NDk3LC0xNDE5MjA0NTI0LC0xMDU1NTQ5NDIzLC0xOTI4
+NzgyMDI4LDcwOTQzNTE4Niw2MDQ0ODU0OTUsMTQ1OTAxNjIyMC
+wxOTEwNzEzNTQ3LDI3ODkwMzc1MSwxNzg1ODM5NzQ5LC0xOTc3
+MTI1MzQ5XX0=
 -->
